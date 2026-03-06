@@ -38,7 +38,7 @@
 
   "sidebar": {
     "chat_title": "聊天记录",
-    "chat_route": "/chat/",
+    "chat_route": "/chat/mhtlim/",
     "target_group": "Mhtlim #√-1 洨巟羣"
   },
 

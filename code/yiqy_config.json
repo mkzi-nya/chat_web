@@ -38,7 +38,7 @@
 
   "sidebar": {
     "chat_title": "聊天记录",
-    "chat_route": "/chat/",
+    "chat_route": "/chat/yiqy/",
     "target_group": "一群有趣的人"
   },
 
