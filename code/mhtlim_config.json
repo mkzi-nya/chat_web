@@ -1,0 +1,48 @@
+{
+  "paths": {
+    "dataset_root": "./mhtlim",
+    "output_dir": "./vite/chat_vitepress/docs/chat/mhtlim",
+    "vitepress_config": "./vite/chat_vitepress/docs/.vitepress/config.js"
+  },
+
+  "identity": {
+    "who_am_i": "None"
+  },
+
+  "resource": {
+    "base_url": "https://mkzi-nya.github.io/chat_web/resources",
+    "image_path": "images",
+    "video_path": "videos",
+    "audio_path": "audios",
+    "file_path": "file"
+  },
+
+  "time": {
+    "timezone_offset_hours": "8",
+    "time_gap_seconds": "300"
+  },
+
+  "render": {
+    "markdown_escape_chars": "\\`*_{}[]()#+-.!",
+    "newline_replace": "<br>"
+  },
+
+  "media": {
+    "video_extensions": "mp4,webm,mkv",
+    "audio_extensions": "mp3,wav,flac,ogg"
+  },
+
+  "parallel": {
+    "max_workers": "8"
+  },
+
+  "sidebar": {
+    "chat_title": "聊天记录",
+    "chat_route": "/chat/",
+    "target_group": "Mhtlim #√-1 洨巟羣"
+  },
+
+  "avatar": {
+    "qq_avatar_url": "https://q.qlogo.cn/g?b=qq&nk={uin}&s=100"
+  }
+}

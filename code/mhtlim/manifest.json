@@ -1,0 +1,2274 @@
+{
+  "metadata": {
+    "name": "QQChatExporter V5 / https://github.com/shuakami/qq-chat-exporter",
+    "copyright": "本软件是免费的开源项目~ 如果您是买来的，请立即退款！如果有帮助到您，欢迎给我点个Star~",
+    "version": "5.5.3",
+    "exportTime": "2026-03-06T12:57:46.974Z",
+    "format": "chunked-jsonl"
+  },
+  "chatInfo": {
+    "name": "Mhtlim#√-1<$ǿĀD\u000e>洨巟羣<$ǿĀD\u000e>",
+    "type": "group",
+    "selfUid": "u_qwxtFyr8kKVKyWHCptNpQg",
+    "selfUin": "2450382239",
+    "selfName": "归梦"
+  },
+  "statistics": {
+    "totalMessages": 187965,
+    "timeRange": {
+      "start": "2024-10-01T18:49:49.000Z",
+      "end": "2026-03-06T12:49:02.000Z",
+      "durationDays": 521
+    },
+    "messageTypes": {
+      "system": 24986,
+      "text": 138340,
+      "reply": 19706,
+      "video": 672,
+      "json": 1284,
+      "audio": 81,
+      "type_17": 1866,
+      "file": 469,
+      "type_10": 10,
+      "forward": 546,
+      "type_19": 5
+    },
+    "senders": [
+      {
+        "uid": "u_qwxtFyr8kKVKyWHCptNpQg",
+        "name": "阳光下可读性提升",
+        "messageCount": 24717,
+        "percentage": 13.15
+      },
+      {
+        "uid": "未知",
+        "name": "0",
+        "messageCount": 16850,
+        "percentage": 8.96
+      },
+      {
+        "uid": "u_T83wwODPGPvjE4XI_USt_g",
+        "name": "笨喵喵的柚",
+        "messageCount": 13564,
+        "percentage": 7.22
+      },
+      {
+        "uid": "u_8EfK00YI-Cz6zurxiabnGg",
+        "name": "libchara-devv",
+        "messageCount": 11809,
+        "percentage": 6.28
+      },
+      {
+        "uid": "u_Ln1Zyo_VwSiBjJvZWQt1dQ",
+        "name": "洛晴酱🍥～（别给我群主！）",
+        "messageCount": 10056,
+        "percentage": 5.35
+      },
+      {
+        "uid": "u_JV9ktwn4oRUiuyxByfcNqw",
+        "name": "zxQAQ",
+        "messageCount": 8799,
+        "percentage": 4.68
+      },
+      {
+        "uid": "u_wiUSWRvvjAZOexgLdCC0iA",
+        "name": "光&对立♀Arcaea㊗9⃣9⃣",
+        "messageCount": 6151,
+        "percentage": 3.27
+      },
+      {
+        "uid": "u__f0wCAGlYBh0GX8Ej7D6Ew",
+        "name": "Panyi（柚喵专用试管）",
+        "messageCount": 6005,
+        "percentage": 3.19
+      },
+      {
+        "uid": "u_MXokd-aoj0r5r7xdsjnsxw",
+        "name": "听雨（Rainey）",
+        "messageCount": 4613,
+        "percentage": 2.45
+      },
+      {
+        "uid": "u_TQpT9ddubDZWq7Evi2jv1A",
+        "name": "大竹",
+        "messageCount": 4516,
+        "percentage": 2.4
+      },
+      {
+        "uid": "u_kXdL-63Cq9fQqEGliYEEPQ",
+        "name": "酉酉吉",
+        "messageCount": 4409,
+        "percentage": 2.35
+      },
+      {
+        "uid": "u_cy1n9_yAdWvr9WnTSmRqnQ",
+        "name": "Autumn",
+        "messageCount": 3208,
+        "percentage": 1.71
+      },
+      {
+        "uid": "u_cFEmAvNWuXuw_pe8IlhMkA",
+        "name": "漠月和他的550W（帮助/h）",
+        "messageCount": 3132,
+        "percentage": 1.67
+      },
+      {
+        "uid": "u_UiCR1r0zEuuh1-heD6cubQ",
+        "name": "Broken希特米",
+        "messageCount": 3107,
+        "percentage": 1.65
+      },
+      {
+        "uid": "u_1xjceGiPn-OnC1-On-1ZFQ",
+        "name": "chun-awa",
+        "messageCount": 2699,
+        "percentage": 1.44
+      },
+      {
+        "uid": "u_KyfguuZeYiZtpaZVSLD88g",
+        "name": "libchara-reality🍥",
+        "messageCount": 2573,
+        "percentage": 1.37
+      },
+      {
+        "uid": "u_QegzwtnUc4NgfEj47RCNxQ",
+        "name": "超级练习册",
+        "messageCount": 2440,
+        "percentage": 1.3
+      },
+      {
+        "uid": "u_K5n_BoXW2o1SKpcidEGflQ",
+        "name": "黑心bot还我钱来",
+        "messageCount": 2255,
+        "percentage": 1.2
+      },
+      {
+        "uid": "u_XjAfpF9qGT7GCZ4E1sYatg",
+        "name": "[有新文件] JMComic2.apk.1",
+        "messageCount": 1941,
+        "percentage": 1.03
+      },
+      {
+        "uid": "u_SbpADoxiUb9qpQgHEsGnkQ",
+        "name": "苏幼晴世界第一可爱",
+        "messageCount": 1866,
+        "percentage": 0.99
+      },
+      {
+        "uid": "u_qn0zvPOcR_d96TWmf5-C1w",
+        "name": "Hellswear.ino",
+        "messageCount": 1853,
+        "percentage": 0.99
+      },
+      {
+        "uid": "u_BFKniGxxmRS1i5RtqgR1Zw",
+        "name": "あ Z-z",
+        "messageCount": 1788,
+        "percentage": 0.95
+      },
+      {
+        "uid": "u_q6aL2iWCzSTwZRCyu2jngw",
+        "name": "【生活老师】千老师 @梦见霖音高级中学",
+        "messageCount": 1786,
+        "percentage": 0.95
+      },
+      {
+        "uid": "u_GFQ40dWy7cSYsSW5tYumEA",
+        "name": "班主任-九镹_xzadudu179",
+        "messageCount": 1482,
+        "percentage": 0.79
+      },
+      {
+        "uid": "u_kP2ZgKGkYVoqNbmqzc6-uQ",
+        "name": "𝕨𝕒𝕧𝕖",
+        "messageCount": 1418,
+        "percentage": 0.75
+      },
+      {
+        "uid": "u_t-MNSIHXxpu7TeevershJg",
+        "name": "怜星铱~♡",
+        "messageCount": 1416,
+        "percentage": 0.75
+      },
+      {
+        "uid": "u_uAX9JeBG1MbXCL73JW5xbg",
+        "name": "🤖｜感谢3227839098发电5.00元",
+        "messageCount": 1413,
+        "percentage": 0.75
+      },
+      {
+        "uid": "u_xOBT4Q4Z4XtkEcsmUQi9Iw",
+        "name": "🤖｜交流群:511802473",
+        "messageCount": 1325,
+        "percentage": 0.7
+      },
+      {
+        "uid": "u_DR0vRZDRH9xvTTbz3vpW_A",
+        "name": "大运bot | 命令/help（s）",
+        "messageCount": 1316,
+        "percentage": 0.7
+      },
+      {
+        "uid": "u_0dlkIqkV95fdElU6qmLlew",
+        "name": "墨澜",
+        "messageCount": 1276,
+        "percentage": 0.68
+      },
+      {
+        "uid": "u_VAFXS1IAyWNrWiut47Y3wg",
+        "name": "猫弦",
+        "messageCount": 1163,
+        "percentage": 0.62
+      },
+      {
+        "uid": "u_RUFLQqqCvDCsOVE1GFd8tA",
+        "name": "sky_ruin（开学）",
+        "messageCount": 1098,
+        "percentage": 0.58
+      },
+      {
+        "uid": "u_RjS_97Nkg6KYEYF3OIoUrw",
+        "name": "Lynriel_Windrider",
+        "messageCount": 1077,
+        "percentage": 0.57
+      },
+      {
+        "uid": "u_5uSUVR_tGRZQdHR3MB4roQ",
+        "name": "星野梦雪",
+        "messageCount": 1035,
+        "percentage": 0.55
+      },
+      {
+        "uid": "u_QRwfiK0WdK75OiRI32vlOA",
+        "name": "胡桃世界第一可爱",
+        "messageCount": 1030,
+        "percentage": 0.55
+      },
+      {
+        "uid": "u_WNTRDMzAqnSs4rZdAIOodw",
+        "name": "Evolution17562",
+        "messageCount": 966,
+        "percentage": 0.51
+      },
+      {
+        "uid": "u_PR8gR1RCPzLXSBz6HQoyrw",
+        "name": "秋",
+        "messageCount": 945,
+        "percentage": 0.5
+      },
+      {
+        "uid": "u_wCypD_j-onQiU3gMf3qZWg",
+        "name": "qwq",
+        "messageCount": 863,
+        "percentage": 0.46
+      },
+      {
+        "uid": "u_Jl9FIXLhBw1t-vK7fBpulg",
+        "name": "岁月静好",
+        "messageCount": 840,
+        "percentage": 0.45
+      },
+      {
+        "uid": "u_1oTgGdC_IFBDLHiA9TKfzg",
+        "name": "永恒猫猫",
+        "messageCount": 831,
+        "percentage": 0.44
+      },
+      {
+        "uid": "u_5Za7f9F5W7BfFdxuwqCdRg",
+        "name": "星星照耀心",
+        "messageCount": 814,
+        "percentage": 0.43
+      },
+      {
+        "uid": "u_3ALA5xw9JOanmnv-mQYqfA",
+        "name": "蝶",
+        "messageCount": 734,
+        "percentage": 0.39
+      },
+      {
+        "uid": "u_OO06c_xLHDwrfA1sM1SXiQ",
+        "name": "mkzi_nya",
+        "messageCount": 685,
+        "percentage": 0.36
+      },
+      {
+        "uid": "u_GY5E2BrUojMtBoEZBbc80A",
+        "name": "Aone",
+        "messageCount": 656,
+        "percentage": 0.35
+      },
+      {
+        "uid": "u_sjR9a38lzr-BTXRdbMDcbw",
+        "name": "Anton",
+        "messageCount": 655,
+        "percentage": 0.35
+      },
+      {
+        "uid": "u_J8wA0BLsqMph_G1sRrI_VA",
+        "name": "SSveTR.",
+        "messageCount": 641,
+        "percentage": 0.34
+      },
+      {
+        "uid": "u_1do8C27GI4oHpMz7mXYS3w",
+        "name": "xyh5033（testid：61）",
+        "messageCount": 639,
+        "percentage": 0.34
+      },
+      {
+        "uid": "u_XHw3O71Q2m0pSN0tO_Jc9g",
+        "name": "我在-_-微笑",
+        "messageCount": 619,
+        "percentage": 0.33
+      },
+      {
+        "uid": "u_COjFldkwjG1zzaOdJCE1WQ",
+        "name": "[个人网站xuziyao.com] 大松_Dason",
+        "messageCount": 576,
+        "percentage": 0.31
+      },
+      {
+        "uid": "u_ALEvPSTgXl8ARRqTKhfaIg",
+        "name": "♡̶Astraium_筱七✟⋆₊⁺🍥",
+        "messageCount": 536,
+        "percentage": 0.29
+      },
+      {
+        "uid": "u_yELXysrln1uq9c0Ond8nLw",
+        "name": "小白子",
+        "messageCount": 526,
+        "percentage": 0.28
+      },
+      {
+        "uid": "u_oFS20dABeUbyUrXovfMp1w",
+        "name": "Lyer Quer（高二限定版）",
+        "messageCount": 499,
+        "percentage": 0.27
+      },
+      {
+        "uid": "u_3b8xQ4ZUr-fjEP5aexphNQ",
+        "name": "tomato reverse",
+        "messageCount": 494,
+        "percentage": 0.26
+      },
+      {
+        "uid": "u_FSkbFXSNUIsh4wsgk6Osgw",
+        "name": "星野世界第一可爱",
+        "messageCount": 438,
+        "percentage": 0.23
+      },
+      {
+        "uid": "u_HgbRkX9t0E3s4E1RQw_Xeg",
+        "name": "玖屿のyu",
+        "messageCount": 437,
+        "percentage": 0.23
+      },
+      {
+        "uid": "u_zmY-U17zeUyZedYMPV95mQ",
+        "name": "1918",
+        "messageCount": 424,
+        "percentage": 0.23
+      },
+      {
+        "uid": "u_DojpcFBi-sqNranBJeDqzw",
+        "name": "KupNooDle",
+        "messageCount": 421,
+        "percentage": 0.22
+      },
+      {
+        "uid": "u_r6owHQS3a-UEgFThMI9Zlw",
+        "name": "时崎忆拾",
+        "messageCount": 419,
+        "percentage": 0.22
+      },
+      {
+        "uid": "u_oVtXdQbvOA-MlfOGCqByuA",
+        "name": "小叮当",
+        "messageCount": 411,
+        "percentage": 0.22
+      },
+      {
+        "uid": "u_1Hnc85UL5nS7cUi01JCMGQ",
+        "name": "InfiniteCat_134",
+        "messageCount": 407,
+        "percentage": 0.22
+      },
+      {
+        "uid": "u_vxaBVzQA3fPfnahtySvX_w",
+        "name": "抑郁-_-繁花（开学勿踢）（b站，tap同名）",
+        "messageCount": 388,
+        "percentage": 0.21
+      },
+      {
+        "uid": "u_fzh3YdjOtTQURfRTYwxegA",
+        "name": "Chifuyu",
+        "messageCount": 387,
+        "percentage": 0.21
+      },
+      {
+        "uid": "u_D6Sadu7di3BI6pTqCaTXeQ",
+        "name": "友",
+        "messageCount": 367,
+        "percentage": 0.2
+      },
+      {
+        "uid": "u_I0TPBt8tKIJotHUHFHvCRg",
+        "name": "Robin",
+        "messageCount": 361,
+        "percentage": 0.19
+      },
+      {
+        "uid": "u_uTx7YnLZ4Xx9NHLs_44CxQ",
+        "name": "Yurisaki",
+        "messageCount": 346,
+        "percentage": 0.18
+      },
+      {
+        "uid": "u_fhcvSYDsw-Mrz1xcSgBsCA",
+        "name": "陈风晓岸",
+        "messageCount": 339,
+        "percentage": 0.18
+      },
+      {
+        "uid": "u_KAVpQ6BXqDIDwufgV96OIA",
+        "name": "咕咕星乾金",
+        "messageCount": 325,
+        "percentage": 0.17
+      },
+      {
+        "uid": "u_ScU1k7ptBbkgfdPrhF40TA",
+        "name": "呃呃呃",
+        "messageCount": 314,
+        "percentage": 0.17
+      },
+      {
+        "uid": "u_1wDqyF5C3E0v_DSLN-ZGFA",
+        "name": "想要月亮",
+        "messageCount": 311,
+        "percentage": 0.17
+      },
+      {
+        "uid": "u_ze0nbA7JqZDNXcv63_zU2Q",
+        "name": "DM.白曦",
+        "messageCount": 298,
+        "percentage": 0.16
+      },
+      {
+        "uid": "u_TIa6xdphjm7DU8eEq0q-iA",
+        "name": "静听心声の贝壳",
+        "messageCount": 293,
+        "percentage": 0.16
+      },
+      {
+        "uid": "u_ZJv0WZ7woI0NTYpyHmCfaA",
+        "name": "忆槿夏",
+        "messageCount": 280,
+        "percentage": 0.15
+      },
+      {
+        "uid": "u_wUfDjrGgdXl8lanj_IYivQ",
+        "name": "-星相轮回-",
+        "messageCount": 279,
+        "percentage": 0.15
+      },
+      {
+        "uid": "u_3kF4JEZ_tr11Dxp-EfzVUg",
+        "name": "桃溪月",
+        "messageCount": 276,
+        "percentage": 0.15
+      },
+      {
+        "uid": "u_Tc2koGPP3QQJMtsidcuk6g",
+        "name": "宇宙第一可爱美少女",
+        "messageCount": 273,
+        "percentage": 0.15
+      },
+      {
+        "uid": "u_Lpm0Cxz0H4cJaXhhweoO_g",
+        "name": "落氧_FallOxygen",
+        "messageCount": 259,
+        "percentage": 0.14
+      },
+      {
+        "uid": "u_AopCjcFxssIWD5HUxbiODg",
+        "name": "汞?",
+        "messageCount": 257,
+        "percentage": 0.14
+      },
+      {
+        "uid": "u_oEG09GRRvLc12wdW10Ho_A",
+        "name": "晓山 瑞希",
+        "messageCount": 250,
+        "percentage": 0.13
+      },
+      {
+        "uid": "u_BuDvKXuTsySIAEsrXcHHog",
+        "name": "123",
+        "messageCount": 242,
+        "percentage": 0.13
+      },
+      {
+        "uid": "u_CQQJYPNeZCX-Byf5GltxvA",
+        "name": "洛筱雪",
+        "messageCount": 234,
+        "percentage": 0.12
+      },
+      {
+        "uid": "u_Rhb6fhRsFohOUF9ChKE-bw",
+        "name": "C.",
+        "messageCount": 230,
+        "percentage": 0.12
+      },
+      {
+        "uid": "u_2WKZLgQJVjWWxx5qqXmKpw",
+        "name": "「フューチャー・イヴ」",
+        "messageCount": 227,
+        "percentage": 0.12
+      },
+      {
+        "uid": "u__SBGL28CEia_CjZW8F2J5A",
+        "name": "Ept_0.9澪淀氿",
+        "messageCount": 214,
+        "percentage": 0.11
+      },
+      {
+        "uid": "u_t47s1OxnCB6A39065MuBYw",
+        "name": "星鸿_SeRazon",
+        "messageCount": 208,
+        "percentage": 0.11
+      },
+      {
+        "uid": "u_pC0rnI8eor4EfNxyODPhCA",
+        "name": "Rikko：［图片］",
+        "messageCount": 208,
+        "percentage": 0.11
+      },
+      {
+        "uid": "u_w1FLRku0Q6OXd7Fpvg2YGw",
+        "name": "6",
+        "messageCount": 208,
+        "percentage": 0.11
+      },
+      {
+        "uid": "u_mi8f64PWXqwG_vXJySR_VQ",
+        "name": "0",
+        "messageCount": 207,
+        "percentage": 0.11
+      },
+      {
+        "uid": "u_LFz2gPovWJnNkGxSF8KgXg",
+        "name": "solife07",
+        "messageCount": 188,
+        "percentage": 0.1
+      },
+      {
+        "uid": "u_Z45cbdBYKMNMnzdHy6VxzQ",
+        "name": "千枫Bot",
+        "messageCount": 174,
+        "percentage": 0.09
+      },
+      {
+        "uid": "u_Laigw4RWHQsI-5SZIgC1Kw",
+        "name": "Ο+/-/+Ο",
+        "messageCount": 172,
+        "percentage": 0.09
+      },
+      {
+        "uid": "u_V7LShMAkCZg1k76LhLtOyw",
+        "name": "GT_iidx_摩耶",
+        "messageCount": 166,
+        "percentage": 0.09
+      },
+      {
+        "uid": "u_NjGEtf4xLDVlc21VCnHR1g",
+        "name": "Sanokyi",
+        "messageCount": 166,
+        "percentage": 0.09
+      },
+      {
+        "uid": "u_g81BgaIB3nIYy1qWeEpcjw",
+        "name": "九七_Ninght197",
+        "messageCount": 165,
+        "percentage": 0.09
+      },
+      {
+        "uid": "u_WUZMad1LykofFSLzoyXRzw",
+        "name": "732ㅤ⁧~喵⁧‭",
+        "messageCount": 163,
+        "percentage": 0.09
+      },
+      {
+        "uid": "u_z8c3GfiLBS9g9a0ScHtXqA",
+        "name": "♿♿♿",
+        "messageCount": 158,
+        "percentage": 0.08
+      },
+      {
+        "uid": "u_Hze5CnucdPWuzScbNADs6g",
+        "name": "Panyi的小号",
+        "messageCount": 147,
+        "percentage": 0.08
+      },
+      {
+        "uid": "u_wvZJROQQy-zZe_nWWp73Vg",
+        "name": "呜呜呜大树",
+        "messageCount": 146,
+        "percentage": 0.08
+      },
+      {
+        "uid": "u_3BpMrelARZdp29s-abRAqg",
+        "name": "AAA晓星批发大葱",
+        "messageCount": 144,
+        "percentage": 0.08
+      },
+      {
+        "uid": "u_637M5HUSM3T0harFsHLvFg",
+        "name": "时光谢奈",
+        "messageCount": 140,
+        "percentage": 0.07
+      },
+      {
+        "uid": "u_2VranAOl7B3AK2PzrC2nrw",
+        "name": "九条可怜",
+        "messageCount": 138,
+        "percentage": 0.07
+      },
+      {
+        "uid": "u_mQ53pwjNaWjDJ2hiEQ3nTg",
+        "name": "溺穆靈",
+        "messageCount": 137,
+        "percentage": 0.07
+      },
+      {
+        "uid": "u_x9fuNfhy0ciCvRn7xussug",
+        "name": "小孩",
+        "messageCount": 129,
+        "percentage": 0.07
+      },
+      {
+        "uid": "u_k0n8sNeBxVc5n1fWVH15xA",
+        "name": "ℳঞ凌霜傲雪꧔ꦿ᭄",
+        "messageCount": 128,
+        "percentage": 0.07
+      },
+      {
+        "uid": "u_vBo2_Rw1-itBVD40YFicVw",
+        "name": "钨酸钠_",
+        "messageCount": 127,
+        "percentage": 0.07
+      },
+      {
+        "uid": "u_fuaIQv68XPj_TPuZAFrNbw",
+        "name": "tomato reverse",
+        "messageCount": 127,
+        "percentage": 0.07
+      },
+      {
+        "uid": "u_77BvpWmT5Kx1WiSzRmuYEQ",
+        "name": "一片漆黑",
+        "messageCount": 124,
+        "percentage": 0.07
+      },
+      {
+        "uid": "u_vBXcgXrThEyusHFHaQ_nCQ",
+        "name": "Etriesfor",
+        "messageCount": 121,
+        "percentage": 0.06
+      },
+      {
+        "uid": "u_z-UpipwgMlN43G_FCHuBiw",
+        "name": "无",
+        "messageCount": 121,
+        "percentage": 0.06
+      },
+      {
+        "uid": "u_SNsRyKAjQTlpErpRqvfmlg",
+        "name": "AAA可儿全🇨🇳🈳✈",
+        "messageCount": 117,
+        "percentage": 0.06
+      },
+      {
+        "uid": "u_JXgOQC3kZWpw1fBFYZvS0g",
+        "name": "FFFFF1",
+        "messageCount": 110,
+        "percentage": 0.06
+      },
+      {
+        "uid": "u_H2zeyzwFo1Tv0I7IB7GN-g",
+        "name": "未影螨、15.72",
+        "messageCount": 106,
+        "percentage": 0.06
+      },
+      {
+        "uid": "u_IOECaifMohvIurBrToJT7Q",
+        "name": "farewell",
+        "messageCount": 99,
+        "percentage": 0.05
+      },
+      {
+        "uid": "u_6TkI2iMfEN29I_UsZkirBw",
+        "name": "Yuyou",
+        "messageCount": 97,
+        "percentage": 0.05
+      },
+      {
+        "uid": "u_hDkLDBr4IhO_ZkQaKcuDrQ",
+        "name": "Namitwl",
+        "messageCount": 96,
+        "percentage": 0.05
+      },
+      {
+        "uid": "u_osa5c7PyUNOfSjbdFtXWUg",
+        "name": "1",
+        "messageCount": 96,
+        "percentage": 0.05
+      },
+      {
+        "uid": "u_C8CDXJXzsZkTVDc2yF5blA",
+        "name": "声",
+        "messageCount": 93,
+        "percentage": 0.05
+      },
+      {
+        "uid": "u_tcwd05T_EuhBmgHMZR_HIA",
+        "name": "bcmnoob",
+        "messageCount": 93,
+        "percentage": 0.05
+      },
+      {
+        "uid": "u_Uav1xUr5U5OZ4Yw9ae5Ouw",
+        "name": "末影龙姐姐",
+        "messageCount": 92,
+        "percentage": 0.05
+      },
+      {
+        "uid": "u_84L704xHHgJ6R-manPxzBA",
+        "name": "0",
+        "messageCount": 89,
+        "percentage": 0.05
+      },
+      {
+        "uid": "u_lr0LrEY3SOTXe8Z8TLK8fQ",
+        "name": "lonely_death",
+        "messageCount": 89,
+        "percentage": 0.05
+      },
+      {
+        "uid": "u_3BHli8IpZTY8aX4Y3kDX0Q",
+        "name": "漠月-Deon✨",
+        "messageCount": 89,
+        "percentage": 0.05
+      },
+      {
+        "uid": "u_Dl_QMteBbDRKZv0ixNnr_g",
+        "name": "Magic.",
+        "messageCount": 80,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_eR4nboYLJFX28HUcPC3zwQ",
+        "name": "libchara-dev🍥",
+        "messageCount": 80,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_o0eLSCP-MX3YmSS-gb6BTw",
+        "name": "slowly☪",
+        "messageCount": 80,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_XDMZ9olwDfVunGstVOWktQ",
+        "name": "[.]",
+        "messageCount": 80,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_-5Di8ZuMGo5zvNrgsf3SQA",
+        "name": "Affirm.",
+        "messageCount": 80,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_WYuEnhXdgUw838C6n3gRYw",
+        "name": "Icyu.",
+        "messageCount": 79,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_Y6zm7DwPAqpQfyiBcbJxkg",
+        "name": "Dieyum-蝶凩",
+        "messageCount": 78,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_q921c-7BlrMeg393uui_CA",
+        "name": "Firedog-2011_Official (reality 12.46)",
+        "messageCount": 77,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_Z7zUKlIF--v9JEW43STFcA",
+        "name": "Samuelle",
+        "messageCount": 76,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_vBFwUFnJniYUz8vb5d6IZA",
+        "name": "Kiriha",
+        "messageCount": 75,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_ij2ugixmGUqWA6v_ZmYsRg",
+        "name": "AL1S_Maid",
+        "messageCount": 74,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_YUbRdjKBiKmcAa-ztucl2Q",
+        "name": "-      1      -",
+        "messageCount": 70,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_VKXjBdvhspMCQnvXxFOfpA",
+        "name": "小号的小号的小号的小号",
+        "messageCount": 70,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_YU1BaVu96nYWv8cSAC9SZA",
+        "name": "ZG我喜欢你",
+        "messageCount": 70,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_RSrvIw253MllUhNx_l7jsQ",
+        "name": "SolsXXXE_Tecreym",
+        "messageCount": 68,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_Tgei-Qpj-KNLsiV0GjnNtw",
+        "name": "试驾不乘哦",
+        "messageCount": 68,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_-6cEwW5rvdh4iNnuJ3yvrw",
+        "name": "泛滥星碎",
+        "messageCount": 67,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u__pos8M25QcRwQFu64lE_Yg",
+        "name": "Om Nom Not Found",
+        "messageCount": 67,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_8FYLxXSEQne5_93-wSSeXg",
+        "name": "Life is every seconds",
+        "messageCount": 67,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_h2Zok3OZvb15_ys6E1HBhQ",
+        "name": "停摆",
+        "messageCount": 64,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_RP0k6g2h2rFChonfrOyLCA",
+        "name": "BennettNotFound",
+        "messageCount": 64,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_ZFtzvhNkcIN0MfYOOO9ucQ",
+        "name": "#Soul sing#",
+        "messageCount": 64,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_Q6fHI1ImbDReNF3RKGUzrA",
+        "name": "Lefnlis (2)",
+        "messageCount": 63,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_p0WcorsKnkcHCnTIXDR1-Q",
+        "name": "灵狯",
+        "messageCount": 60,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_pKyEHbxnountzcg-F7bZqA",
+        "name": "夜枫",
+        "messageCount": 60,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_9v-QtCBogGGs8kmWOyVTvg",
+        "name": "汐芷.",
+        "messageCount": 59,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_P5wJIvmC3Uv1jSe5SakDRQ",
+        "name": "落",
+        "messageCount": 58,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_BgbDzf8sw8NJas8XPeq5tQ",
+        "name": "Ocelot",
+        "messageCount": 57,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_PQrCjVK0fj-BBicVFwcAmQ",
+        "name": "L-Resurrection",
+        "messageCount": 56,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_NQ-0yZUj9r9WVzAifW_VWA",
+        "name": "CCB_φ",
+        "messageCount": 54,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u__SNOKOcGJQQQT5zMvZTL7Q",
+        "name": "音楽ゲームをする人(*^^)o∀",
+        "messageCount": 53,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_UYWBC_f2LIXOBraqkqwoNQ",
+        "name": "RIPPLE",
+        "messageCount": 51,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_WSrsigCz03Ff7hPy8lK9dw",
+        "name": "风无痕",
+        "messageCount": 51,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_mqcHZNFBbVdxAmNMZfc8GQ",
+        "name": "荒年の残骸·Memories",
+        "messageCount": 51,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_1UHSI8tySXQqLUW-XcNL1A",
+        "name": "小小的名纸♡",
+        "messageCount": 51,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_yCraqrH0Ch_pFbSKa2KSQg",
+        "name": "乐子",
+        "messageCount": 49,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_QfTVmMtRoKFocNMnTZ161A",
+        "name": "aa.",
+        "messageCount": 48,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_aWOV5gSJBrkMAT4eR1OPxA",
+        "name": "清明白猫",
+        "messageCount": 48,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_FD-muC5piOz_GyTfY88Ogg",
+        "name": "TorFal",
+        "messageCount": 48,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_qK4iM82WEfWC6LcakAC_gQ",
+        "name": "雑魚のもぺもぺ",
+        "messageCount": 48,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_F7v6Ok2nYx_1iHZ1miLH5g",
+        "name": "BLBotLite",
+        "messageCount": 47,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_D6Hri87w-uvKBwpTvhPxYA",
+        "name": "tfs",
+        "messageCount": 46,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_5nX4_z5huwbfmz02kr1SsA",
+        "name": "试了新买的风堇cos服：[图片]",
+        "messageCount": 44,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_KjGNuWFF7tAmjzywq2iFQw",
+        "name": "闲",
+        "messageCount": 44,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_JTWboDxZZZ7P4T9eSqjWhA",
+        "name": "王某人",
+        "messageCount": 42,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_6ekXWLP3GxPHOaaVQanmNw",
+        "name": "一只屑",
+        "messageCount": 42,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_A3mx0PYlWr2o-McRJTuRJA",
+        "name": "Jerrlee",
+        "messageCount": 42,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_F3B3lTteRTfOsec0A1GA0w",
+        "name": "猫佑",
+        "messageCount": 41,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_JXqpG_Tba4jRiLyiB7oP5g",
+        "name": "x----xt",
+        "messageCount": 41,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_AAMPlvT5790-CzQrAuk8SA",
+        "name": "氯化钠",
+        "messageCount": 41,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_9Iyz4Mne6hu2bq_cXqF8PA",
+        "name": "旷野江清",
+        "messageCount": 41,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_aq9kxfd8AbQcLQpPJ90D0Q",
+        "name": "T",
+        "messageCount": 40,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_P52VeZhkebDstMghs3_-3Q",
+        "name": "我不会起名(住宿生别踢)",
+        "messageCount": 38,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_ON2jQCh_5x3647X4ex8E5Q",
+        "name": "要乐奈（out）",
+        "messageCount": 37,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_w_BdLGh_mnSNPdsu_MjTmg",
+        "name": "Maya",
+        "messageCount": 37,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_O-6l32B0zcp7P91HopE-wg",
+        "name": "一只鹦鹉咕",
+        "messageCount": 37,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_hv4hHGpo91g19eTg-_4W9g",
+        "name": "卤味鸭",
+        "messageCount": 35,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_xVIR-a0rsBkSMqTnd8If0w",
+        "name": "ςrυεΙ",
+        "messageCount": 35,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_iWlbhOhYra_rVpYnYafblA",
+        "name": "LGSL.",
+        "messageCount": 34,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_T55g1TL4eJGY3r2V1I3MrA",
+        "name": "爱玩phi的芦苇鸭（游戏参与者）",
+        "messageCount": 34,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_i2NihpF0uTsC9gN0yGwweQ",
+        "name": "名字",
+        "messageCount": 34,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_c1sOvmtzLiQD6kH10XpEaQ",
+        "name": "⁧~凌刻日喵⁧",
+        "messageCount": 34,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_ypuvdfj0y8nzq2_E4fV0ig",
+        "name": "高温下的CaCO3",
+        "messageCount": 34,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_SUH-yY8u7xXDQhWnnoN7Xg",
+        "name": "爬爬",
+        "messageCount": 33,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_khEqMhgEgiWTPXx1KFK9Xg",
+        "name": "114514.jpg",
+        "messageCount": 33,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_K6Vj7P9cFGAvpr-oUBaHwg",
+        "name": "Sunday",
+        "messageCount": 32,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_la8YQUQJOBxELQKcaxWwig",
+        "name": "AAAAAstroEcHo？？？！！",
+        "messageCount": 32,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_Qr0sOc99icFauOb3YqsEzA",
+        "name": "かわさき🐾🔜监狱",
+        "messageCount": 32,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_sqUUnGbdzjkFx8baKYdGlw",
+        "name": ".",
+        "messageCount": 32,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_5eMI0Q5bS61cuzG07RkGMg",
+        "name": "混的霜（芣蓠芣棄哋嬡）",
+        "messageCount": 32,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_D2aA5S0pNgObEff5NPUbpw",
+        "name": "香香软软小猫娘（开学勿踢）",
+        "messageCount": 31,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_HFDXHAsOoh_mncP7nX1ldw",
+        "name": "zyc：那么，我来成为神明",
+        "messageCount": 30,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_RUTiIFinnGQjxAAwRRzPiA",
+        "name": "逸仙断尘",
+        "messageCount": 30,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_fXdLov4eDpcH3z-ALLRdww",
+        "name": "鲨鲨爱吃糖糖",
+        "messageCount": 29,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_C1-vfmRQ9YsRXVrxvDeaCg",
+        "name": "奕",
+        "messageCount": 28,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_PMVYk61r5MF6shrmbmPzQg",
+        "name": "maizi07",
+        "messageCount": 28,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_fAiQx6zkaqWSc3ravSwGYw",
+        "name": "😭",
+        "messageCount": 28,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_7N6gtt2W5cgAoKYQgDihsQ",
+        "name": "火猫",
+        "messageCount": 28,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_b8znES8RnZ4SnCHhoRpG0w",
+        "name": "ACC_dent",
+        "messageCount": 28,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_F3iHibvGPTbpN9IkXmAy5w",
+        "name": "Circle_Table",
+        "messageCount": 26,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_vp83nV7HP7OYmS6qb0SYTQ",
+        "name": "白无",
+        "messageCount": 26,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_gXVZn8PQ3dCohxPObUuAww",
+        "name": "idoit",
+        "messageCount": 26,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_4D1pVYe8k06bc19pzMdNrg",
+        "name": "东门丽玉(高一版)",
+        "messageCount": 25,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_uF16KKuKJWJoLMRk-wZJzg",
+        "name": "FryOnTheLock",
+        "messageCount": 25,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_oo10VcOCGirg7VGW1KmAUg",
+        "name": "昵称",
+        "messageCount": 25,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_cZn3vXG7dtmU5mVG7R-Qtg",
+        "name": "AronaBot",
+        "messageCount": 25,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_wfC0WEnZTQc7YWDj304R5Q",
+        "name": "Xeator-943",
+        "messageCount": 25,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_KkL0JUQjRZNPybyOHN0tiQ",
+        "name": "Chronostasis",
+        "messageCount": 24,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_bfyQbGBKLVQbXX-qOyiRGg",
+        "name": "扬",
+        "messageCount": 23,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_a-7CvgvkJJuYQ0kY55gCgw",
+        "name": "0",
+        "messageCount": 22,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_M-vQ_L-xYGCnP4la-OI_sA",
+        "name": "名纸",
+        "messageCount": 22,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_40lXwFRk1xfs0yGvvQZZnQ",
+        "name": "溯_fauilfd",
+        "messageCount": 22,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_gja5FGYMbc6e3-motzUxzA",
+        "name": "．",
+        "messageCount": 21,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_vO5EoxlRvKBGbzhNIGR_2g",
+        "name": "……",
+        "messageCount": 20,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_PiI2B-hDqDxy3n1dt8KG_w",
+        "name": "Cindy.辞寒",
+        "messageCount": 20,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_aCAKnaEjvG75xqbOtVI0Iw",
+        "name": "naiHrPakiyi",
+        "messageCount": 20,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_G4JcACsRUyxMGKh8p8HRxA",
+        "name": "清陌",
+        "messageCount": 20,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_k2Rnypq9-Lo0wJb56Vo-BA",
+        "name": "鹤川",
+        "messageCount": 19,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_LqANYVBXOfXwNPkBiPxInA",
+        "name": "uwu",
+        "messageCount": 19,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_-RelyuHtMZ0U0VpQs7wfnA",
+        "name": "贪",
+        "messageCount": 19,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_vszHEWXSu7as5GC4lt3mBg",
+        "name": "夜泊航",
+        "messageCount": 19,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_Hds2vhRN-OytHs-NHYM-fA",
+        "name": "一两江湖：试了下女装[图片][图片]",
+        "messageCount": 18,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_tzuoKh2wqzUJVYQ5r4OYSA",
+        "name": "名字",
+        "messageCount": 18,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_iGrGI36PgF5Azg_T1EiZ-g",
+        "name": "凌的小号",
+        "messageCount": 18,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_oCbDv45YVwi5KRWArRbIFw",
+        "name": "云帆",
+        "messageCount": 17,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_0Wl8Kbqq69Ef7Tw7_NJ6PQ",
+        "name": "？？？",
+        "messageCount": 17,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_wxR_COzJcEh1AIVjJaffLw",
+        "name": "V",
+        "messageCount": 17,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_0XbgLJWiWx4Vhp_GSxUHGw",
+        "name": "†梦想是品尝纯情小凉花喵†",
+        "messageCount": 17,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_6mCV0unC8FMzx-FitPMMnw",
+        "name": "Helium",
+        "messageCount": 15,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_gSJQjFnZUxO17SseDVvznQ",
+        "name": "灰肠耗核的籁猹",
+        "messageCount": 15,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_49Qo7qN-SVJZx7hjgllXXQ",
+        "name": "Kisscat",
+        "messageCount": 15,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_ZfYsRJd-6JNuaV-yUlb3AA",
+        "name": "陈维巾Scarf",
+        "messageCount": 14,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_hcsliV1IxHwqFFPSn6la6A",
+        "name": "0",
+        "messageCount": 14,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_kG9b-qBGtncGTRUw4_FB6g",
+        "name": "亠",
+        "messageCount": 14,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_bC17031N6FMiYombgXCTwQ",
+        "name": "机厅不是你家",
+        "messageCount": 14,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_3uY_cn8bBTf_hd4nNduKlg",
+        "name": "笨蛋",
+        "messageCount": 14,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_wZnr_g0zdEE0td0kKELnqQ",
+        "name": "工业制取脑子",
+        "messageCount": 13,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_rDWhxgelUU1mQm_egDsn9w",
+        "name": "AncientM夜清",
+        "messageCount": 13,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_nhpHHAU2-mPA3RirgbDMLg",
+        "name": "#3/9hjar",
+        "messageCount": 13,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_nAWpWu1zuzAOx26pWyw8WA",
+        "name": "蓦.",
+        "messageCount": 13,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_GiG0vObrWtsZRebGuZIMjg",
+        "name": "RFL_宝马phimil",
+        "messageCount": 12,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_VdUqyDWlLLacxL-oncNIWA",
+        "name": "唐洛守",
+        "messageCount": 12,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_34Gbvua9vNyQ_SJfoaIPrg",
+        "name": "起不来就继续睡吧",
+        "messageCount": 12,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_eo2YrGr6EJXda8KJihDlVg",
+        "name": "别问了我真的是露薇娅配音但是二创",
+        "messageCount": 12,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_syVm5T-ACHvK0nicfj3DqA",
+        "name": "群冻住，时不时被深不可测的伟力幸轻",
+        "messageCount": 12,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_ia6JYfB50mHZjBBKMZzTOA",
+        "name": "🔴",
+        "messageCount": 12,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_xzYKRRrLCYI4whl73205Gg",
+        "name": "梦の繁星",
+        "messageCount": 12,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_qfBVq8QS_GkQSsbA4giUWQ",
+        "name": "Chinchilla",
+        "messageCount": 11,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_ccaJe6wriKDLG4ISDEuAug",
+        "name": "3poiadwsaw",
+        "messageCount": 11,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_y4TfMFjOF8hPcbBoPbT4JA",
+        "name": "明皓",
+        "messageCount": 11,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_b_zlMWTZgKyGgEkGKbQAGg",
+        "name": "蓝蚀白瑜",
+        "messageCount": 11,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_giebJPh5uzCPpoC1JqT2LA",
+        "name": "邦",
+        "messageCount": 11,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_kNaAkMuMk0hqS54coEvZ6A",
+        "name": "どうした（の）",
+        "messageCount": 11,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_H26wntiNqfsdt0uQuMk9_Q",
+        "name": "初遇",
+        "messageCount": 11,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_kdn1z8GU3Goio0dwPA8ShQ",
+        "name": "「虚无」-IX",
+        "messageCount": 11,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_uuDDEPbXYDNX5qbirIcQ9Q",
+        "name": "HwhiteplmueY|白羽",
+        "messageCount": 11,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_bSuzFPk5chFNHVrYBbpQ8w",
+        "name": "cat_栗子",
+        "messageCount": 11,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_YutFXLdeAucomnsEyof9Qg",
+        "name": "Hafn",
+        "messageCount": 11,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_gZLcyRjja3wK3JB4MAmhPQ",
+        "name": "TEN-大卫",
+        "messageCount": 10,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_h5nZsmxl8JZzFOYg-8vCiw",
+        "name": "不可能哈哈哈",
+        "messageCount": 10,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_9Ad4W4iTUqClu_IzSjG58A",
+        "name": "九鸟_Jluo",
+        "messageCount": 10,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_3hB5zYlddiBYArNjxxUO3A",
+        "name": "噢Leo",
+        "messageCount": 10,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_Hg34TY8-WKcFhKpPTywpig",
+        "name": "iL",
+        "messageCount": 9,
+        "percentage": 0
+      },
+      {
+        "uid": "u_6xfM1lqDZocGT0hBhTEPMA",
+        "name": "StarryMeteor",
+        "messageCount": 9,
+        "percentage": 0
+      },
+      {
+        "uid": "u_wNfs7nUJ6tubmG4JekurYQ",
+        "name": "⁣​⁣⁠ ⁡ᯤ⁵²⁰8ᴳ⁺",
+        "messageCount": 9,
+        "percentage": 0
+      },
+      {
+        "uid": "u_HrwLyDMghgri44ffNX9QJA",
+        "name": "GOODRAGE",
+        "messageCount": 9,
+        "percentage": 0
+      },
+      {
+        "uid": "u_i8MUUdQhMK5JWI22ko6_Ng",
+        "name": "骆驼",
+        "messageCount": 9,
+        "percentage": 0
+      },
+      {
+        "uid": "u_ekTUsXl3kV23Xwva2XXu1Q",
+        "name": "SatYRr_",
+        "messageCount": 9,
+        "percentage": 0
+      },
+      {
+        "uid": "u_xOvlHcUnC9qBQHrxUz1dvA",
+        "name": "꧁~༺༽ཊ轻杨ཏ༼༻~꧂",
+        "messageCount": 8,
+        "percentage": 0
+      },
+      {
+        "uid": "u_snx_Ds6VAiKQJKbXxuupAg",
+        "name": "菠萝",
+        "messageCount": 8,
+        "percentage": 0
+      },
+      {
+        "uid": "u_ud2KcEq4hZd347NUd9MnRw",
+        "name": "zomman",
+        "messageCount": 8,
+        "percentage": 0
+      },
+      {
+        "uid": "u_OAWYwLTLQ8hAsrxXfUwvlw",
+        "name": "fish_golden",
+        "messageCount": 8,
+        "percentage": 0
+      },
+      {
+        "uid": "u_E1c0J7ZwT6Inf1n881UWNw",
+        "name": "电鳗Electric_eel",
+        "messageCount": 8,
+        "percentage": 0
+      },
+      {
+        "uid": "u_pmvmbuZYlxkDhh-iisYDhg",
+        "name": "曦晨月",
+        "messageCount": 8,
+        "percentage": 0
+      },
+      {
+        "uid": "u_mcZGZqm5E74yMvYKd1jQdA",
+        "name": "未雨",
+        "messageCount": 8,
+        "percentage": 0
+      },
+      {
+        "uid": "u_XKHiiajiOtJb5uOO2BN0kw",
+        "name": "NasaraDraugr",
+        "messageCount": 8,
+        "percentage": 0
+      },
+      {
+        "uid": "u_TjAeuIze72doEclYpcnL6Q",
+        "name": "临溪而渔",
+        "messageCount": 7,
+        "percentage": 0
+      },
+      {
+        "uid": "u__TvWjkOXr8Sw1kZyO60QyQ",
+        "name": "虚构义",
+        "messageCount": 7,
+        "percentage": 0
+      },
+      {
+        "uid": "u_XhgAbdVxmu9GxAqrPHddIQ",
+        "name": "꧁༺༽ཌconflictད༼༻꧂",
+        "messageCount": 7,
+        "percentage": 0
+      },
+      {
+        "uid": "u_PkIwqJCYDXAmN8FCoty63g",
+        "name": "提比不想睡觉",
+        "messageCount": 7,
+        "percentage": 0
+      },
+      {
+        "uid": "u_IS6rwrVZJOiepXeK6MR-vA",
+        "name": "鸽子（开学.jpg)",
+        "messageCount": 7,
+        "percentage": 0
+      },
+      {
+        "uid": "u__a_Sfce9pFGZiR7Nz4h0MQ",
+        "name": "（定限节人愚） 立对",
+        "messageCount": 7,
+        "percentage": 0
+      },
+      {
+        "uid": "u_OE7UUDjjxKc5hnu440ws5Q",
+        "name": "你染上321了？！",
+        "messageCount": 6,
+        "percentage": 0
+      },
+      {
+        "uid": "u_SAGJB55LgcqVCAxd6BuGGw",
+        "name": "Lhj.",
+        "messageCount": 6,
+        "percentage": 0
+      },
+      {
+        "uid": "u_HjwNVZ4UEBJEBkCFBKbexA",
+        "name": "Ex+",
+        "messageCount": 6,
+        "percentage": 0
+      },
+      {
+        "uid": "u_C-D1pjbwwBxrDCcP7Y0zIg",
+        "name": "三叶草ǿ",
+        "messageCount": 6,
+        "percentage": 0
+      },
+      {
+        "uid": "u_cYeFTexHwGFlsTVeDPyLuA",
+        "name": "Pauo",
+        "messageCount": 6,
+        "percentage": 0
+      },
+      {
+        "uid": "u_TqAPcVuQBZcXbn2RrjBmgg",
+        "name": "浩水",
+        "messageCount": 6,
+        "percentage": 0
+      },
+      {
+        "uid": "u_uR2uYuDoMfKNXdsEHE-1Ww",
+        "name": "LineB｜三个星期的寒假",
+        "messageCount": 6,
+        "percentage": 0
+      },
+      {
+        "uid": "u_4GjIGW0ZwhceboxaBcJutg",
+        "name": "咕咕才不是鸠呢～",
+        "messageCount": 6,
+        "percentage": 0
+      },
+      {
+        "uid": "u_t0LflzBKlg2J_PKb_AgcQQ",
+        "name": "Fulgrry fixed by 365",
+        "messageCount": 6,
+        "percentage": 0
+      },
+      {
+        "uid": "u_ApVql6JmIkVbE14Bt5JxsQ",
+        "name": "水的味道",
+        "messageCount": 5,
+        "percentage": 0
+      },
+      {
+        "uid": "u__6brhZJJBTcJaKt7XXAPoQ",
+        "name": "RaymTh",
+        "messageCount": 5,
+        "percentage": 0
+      },
+      {
+        "uid": "u_uYxqSA7BQwBa9bOlnXDAAg",
+        "name": "LYtide",
+        "messageCount": 5,
+        "percentage": 0
+      },
+      {
+        "uid": "u_42KYg0lu3pRGCtxE5pDZyg",
+        "name": "A白と黒X",
+        "messageCount": 5,
+        "percentage": 0
+      },
+      {
+        "uid": "u_8Ulfez5fIaPvwgwthr5hgw",
+        "name": "[降]",
+        "messageCount": 5,
+        "percentage": 0
+      },
+      {
+        "uid": "u_DjVuAAsexHK4IP3H9pjTug",
+        "name": "Alexanderite",
+        "messageCount": 5,
+        "percentage": 0
+      },
+      {
+        "uid": "u_yFB2aj4MNV_1Z46Rm14ahg",
+        "name": "忆こ⁧~喵⁧‭",
+        "messageCount": 5,
+        "percentage": 0
+      },
+      {
+        "uid": "u_TZURrGXgwKnjhsnf1zA5mw",
+        "name": "Milcy",
+        "messageCount": 5,
+        "percentage": 0
+      },
+      {
+        "uid": "u_MwqH33efddDjl8vccUJfoA",
+        "name": "NaBH4💯",
+        "messageCount": 5,
+        "percentage": 0
+      },
+      {
+        "uid": "u_0n7KGOlGPjJXHjaMhAiYMg",
+        "name": "a",
+        "messageCount": 5,
+        "percentage": 0
+      },
+      {
+        "uid": "u_htcIYMUKVph4h1CcLSdOag",
+        "name": "Billy-GDK",
+        "messageCount": 5,
+        "percentage": 0
+      },
+      {
+        "uid": "u_UOtY1EGqIDh56nWgrP-gCQ",
+        "name": "⁺✞ʚ神随重度依赖✟ɞ",
+        "messageCount": 5,
+        "percentage": 0
+      },
+      {
+        "uid": "u_UIW10Ie4P0-_eLnVYpt1Ng",
+        "name": "研讨会——生盐诺亚",
+        "messageCount": 5,
+        "percentage": 0
+      },
+      {
+        "uid": "u_ys8LoPfjuUsTA-Tsy6X6JA",
+        "name": "屰",
+        "messageCount": 4,
+        "percentage": 0
+      },
+      {
+        "uid": "u_fKt1ac1YgPF8MLNdQsWEQQ",
+        "name": "小鱼阮糖",
+        "messageCount": 4,
+        "percentage": 0
+      },
+      {
+        "uid": "u_AfsSX5nUX0R415as-S3-fA",
+        "name": "0",
+        "messageCount": 4,
+        "percentage": 0
+      },
+      {
+        "uid": "u_7L7MXFk_4OXs4MTRO9a9zQ",
+        "name": "404进小黑屋",
+        "messageCount": 4,
+        "percentage": 0
+      },
+      {
+        "uid": "u_jMQXV_MjTAIhcYN1jPOV9w",
+        "name": "0",
+        "messageCount": 4,
+        "percentage": 0
+      },
+      {
+        "uid": "u_yy4tngGG0uws9ElspaqrPQ",
+        "name": "幽默 憋笑（开学已亖）",
+        "messageCount": 3,
+        "percentage": 0
+      },
+      {
+        "uid": "u_77XdFZpDKl-LY_WsZKTvDw",
+        "name": "反杀闰土帅猹",
+        "messageCount": 3,
+        "percentage": 0
+      },
+      {
+        "uid": "u_ZMtsC4qrEVEc1VoOiLj-Nw",
+        "name": "Morchetype: ERROR",
+        "messageCount": 3,
+        "percentage": 0
+      },
+      {
+        "uid": "u_lTLZVKgajWh55dQFoxoSJg",
+        "name": "Saber",
+        "messageCount": 3,
+        "percentage": 0
+      },
+      {
+        "uid": "u_8Q_tDn76K-0FtWVQFfq4rA",
+        "name": "0",
+        "messageCount": 3,
+        "percentage": 0
+      },
+      {
+        "uid": "u_bkWK0Ac7XUhzfAc14Jd4ow",
+        "name": "叶海sama",
+        "messageCount": 3,
+        "percentage": 0
+      },
+      {
+        "uid": "u_M726wfcXkGoeVKdtLfgHdw",
+        "name": "罗斯柴尔德·玦",
+        "messageCount": 3,
+        "percentage": 0
+      },
+      {
+        "uid": "u_YT_dCwGLcqEnWF7KLlbDtw",
+        "name": "mine",
+        "messageCount": 3,
+        "percentage": 0
+      },
+      {
+        "uid": "u_sWHBgdIeqLNBX1S9MF_DHw",
+        "name": "kingdomboss",
+        "messageCount": 3,
+        "percentage": 0
+      },
+      {
+        "uid": "u_n8O9ZK96sav1gTRfXkJBBw",
+        "name": "德丽莎",
+        "messageCount": 3,
+        "percentage": 0
+      },
+      {
+        "uid": "u_A5_BtzQ--5OXzaLrxGhR5g",
+        "name": "烛江",
+        "messageCount": 3,
+        "percentage": 0
+      },
+      {
+        "uid": "u_yaZRAnobTvv_54s1jV50yA",
+        "name": "xing",
+        "messageCount": 3,
+        "percentage": 0
+      },
+      {
+        "uid": "u_ACwGsxFbKnar8EJOJMrnag",
+        "name": "🤔",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_nocxbFxFKcdUAnNDP2Otfg",
+        "name": "三岁",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_t0hBMd2DG_erscSVsUsQOg",
+        "name": "汐",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_U6ZcwL-aIyiEUI9ASTDmdQ",
+        "name": "苦力怕娘",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_UnjSnsh67r11Ox-eB7AXUw",
+        "name": "我是人机",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u__DwGAY9ghTdAJ2Ma6_ORaw",
+        "name": "Hyω-猫小立",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_g0MV9-iZUlH___ScljkPWA",
+        "name": "gua",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_eOI-WSo3uJ4MCNTgc1lv_A",
+        "name": "C",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_rx8OQWf0zIYj-kL0Pk4sVQ",
+        "name": "绘梨衣のDuck",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_WJEmqZqhirkvQytqnevOiA",
+        "name": "window刘",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_7YQ1KF6FgpgdAsyylgA74g",
+        "name": "芙",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_0aDlIGMN6D7iYGL6AUHYFA",
+        "name": "No.22",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_8IBtDbidgqEdSBizF9AsOw",
+        "name": "2 5 3",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_Uca3yeL9YeXUIy7NfOq55Q",
+        "name": "Alkaid",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_bCeCDYmCGZQ8oacVNfCi8w",
+        "name": "暗夜幽殤",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_NshwDVWBdFQvj2HxJJqvdg",
+        "name": "luminescence",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_4aaP5woJoA3BuOaV0dM_4w",
+        "name": "STR-白車",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_ExMgx9aQUwDIAfU0sPESsg",
+        "name": "彼安汀",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_PdTMJ5XsrfWwpNAe_fFq-w",
+        "name": "frostleaf",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_M4xcRr0iv4uiyvtbxN64Dw",
+        "name": "渊鱼DeepFish",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_GaOc3x7ujEb5gaDwL-6lhg",
+        "name": "周叶",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_VkImoMT8uC9fL_cUZKkZcQ",
+        "name": "汪排晓吏.",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_C6qXSPu_hqNvt5L72dCILw",
+        "name": "一个正弦函数",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_96HU-J9idkoZohiQR9AlVw",
+        "name": "GuangmoRhy",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_wH5i5KSpW5oVPAnnb8PG9Q",
+        "name": "Guangmo",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_V_tZlSZlw-N0vjsvZ_OsNg",
+        "name": "SmallALotus小阿莲",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_oStt2cOkNa3V_gO2OB_uZw",
+        "name": "K",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_i_k8i-RYBcRgOb6Lzx68pg",
+        "name": "Xaleid◆scopiX",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_tn0A2cChYn4CqGjjT6zVCA",
+        "name": "RCShock",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_Xjx6QWSKA1RJN0wPqLTOiw",
+        "name": "dinner",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_TK4l7NqtKNLnYM73Yr2Gkw",
+        "name": "栗子",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_j0Imd6QeETXL90obgRBlHA",
+        "name": "坐忘道大三元白板（纳兰瑶",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_r8VGs2LUPRToLQJ9Ch2dUQ",
+        "name": "三皇五帝",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_thV-6lfJvre_3JD_RvZ0OA",
+        "name": "洞烛awa.⁧~喵⁧‭",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_43K-bItpHK8lIemJ3VXQsQ",
+        "name": "Starry Sky-ZincMeteor",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_BJLrgblb-nNQHP2FJLn4Lg",
+        "name": "Exit._Akville",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_L0hjKIqUF-Juz79Wy8TcCQ",
+        "name": "zombie321（Rks12.15）",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u__r7DdEjZl0vLTNvVtAxEbQ",
+        "name": "0",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_jnmjHNPIWfAL1Y3emKG2HA",
+        "name": "望舒",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_5UCf3MM8iQEoQZQc1D8LMA",
+        "name": "0",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_IuIqmsmMb8F_w5weM0GR6g",
+        "name": "久住☆痉挛～♬你线蓝了♬",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_3V6yuBRIsiQPXRhf0W9ZtQ",
+        "name": "清玖夏（）",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_YYj3r3iOoOa_uAEQn-6qlw",
+        "name": "kodori",
+        "messageCount": 1,
+        "percentage": 0
+      }
+    ]
+  },
+  "chunked": {
+    "format": "jsonl",
+    "chunksDir": "chunks",
+    "chunkFileExt": ".jsonl",
+    "maxMessagesPerChunk": 50000,
+    "maxBytesPerChunk": 52428800,
+    "chunks": [
+      {
+        "index": 1,
+        "fileName": "chunk_0001.jsonl",
+        "relativePath": "chunks/chunk_0001.jsonl",
+        "start": "2025-12-03T06:49:50.000Z",
+        "end": "2026-03-06T12:49:02.000Z",
+        "count": 50000,
+        "bytes": 38595451
+      },
+      {
+        "index": 2,
+        "fileName": "chunk_0002.jsonl",
+        "relativePath": "chunks/chunk_0002.jsonl",
+        "start": "2025-08-06T15:21:49.000Z",
+        "end": "2025-12-08T15:39:37.000Z",
+        "count": 50000,
+        "bytes": 40603334
+      },
+      {
+        "index": 3,
+        "fileName": "chunk_0003.jsonl",
+        "relativePath": "chunks/chunk_0003.jsonl",
+        "start": "2025-04-06T06:24:18.000Z",
+        "end": "2025-08-09T13:28:08.000Z",
+        "count": 50000,
+        "bytes": 42678722
+      },
+      {
+        "index": 4,
+        "fileName": "chunk_0004.jsonl",
+        "relativePath": "chunks/chunk_0004.jsonl",
+        "start": "2024-10-01T18:49:49.000Z",
+        "end": "2025-04-18T13:52:27.000Z",
+        "count": 37965,
+        "bytes": 31851095
+      }
+    ]
+  }
+}

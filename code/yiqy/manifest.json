@@ -1,0 +1,2750 @@
+{
+  "metadata": {
+    "name": "QQChatExporter V5 / https://github.com/shuakami/qq-chat-exporter",
+    "copyright": "本软件是免费的开源项目~ 如果您是买来的，请立即退款！如果有帮助到您，欢迎给我点个Star~",
+    "version": "5.5.3",
+    "exportTime": "2026-03-06T12:52:24.830Z",
+    "format": "chunked-jsonl"
+  },
+  "chatInfo": {
+    "name": "一群有趣的人",
+    "type": "group",
+    "selfUid": "u_qwxtFyr8kKVKyWHCptNpQg",
+    "selfUin": "2450382239",
+    "selfName": "归梦"
+  },
+  "statistics": {
+    "totalMessages": 144700,
+    "timeRange": {
+      "start": "2024-04-23T12:56:57.000Z",
+      "end": "2026-03-06T14:44:23.000Z",
+      "durationDays": 581
+    },
+    "messageTypes": {
+      "text": 76710,
+      "reply": 13136,
+      "system": 10346,
+      "json": 1396,
+      "type_17": 347,
+      "video": 346,
+      "file": 72,
+      "forward": 327,
+      "audio": 129,
+      "type_10": 35
+    },
+    "senders": [
+      {
+        "uid": "u_6_zTAvbhoVJ78kCbkbK39A",
+        "name": "梦魇无痕逍遥修罗至强者庇护（梦天帝）",
+        "messageCount": 10462,
+        "percentage": 10.17
+      },
+      {
+        "uid": "u_qwxtFyr8kKVKyWHCptNpQg",
+        "name": "归梦",
+        "messageCount": 9164,
+        "percentage": 8.91
+      },
+      {
+        "uid": "未知",
+        "name": "0",
+        "messageCount": 7854,
+        "percentage": 7.64
+      },
+      {
+        "uid": "u_8i9spFpVcCgTRr9e-Oun_A",
+        "name": "谷",
+        "messageCount": 7646,
+        "percentage": 7.43
+      },
+      {
+        "uid": "u_AMapKahP68v0ACIAolBMlw",
+        "name": "血影（留守群里孤寡老拾）(σ≧︎▽︎≦︎)",
+        "messageCount": 7303,
+        "percentage": 7.1
+      },
+      {
+        "uid": "u_1CvhsR2AhVGZMjiR1_P_Yw",
+        "name": "……",
+        "messageCount": 7132,
+        "percentage": 6.93
+      },
+      {
+        "uid": "u_CnEF5HD4Wib-2xMrq75qIw",
+        "name": "@w",
+        "messageCount": 4526,
+        "percentage": 4.4
+      },
+      {
+        "uid": "u_bz-7aBMqiLpOdt5wdARHiQ",
+        "name": "希鸽子（我佛慈悲）",
+        "messageCount": 3858,
+        "percentage": 3.75
+      },
+      {
+        "uid": "u_RrfhQjYeEEkD25CsuuNKsw",
+        "name": "不是库批也不是崩批",
+        "messageCount": 3383,
+        "percentage": 3.29
+      },
+      {
+        "uid": "u_dp1YK3eeeZZ86rFyrbEPOQ",
+        "name": "咸鱼麻麻🐟",
+        "messageCount": 2223,
+        "percentage": 2.16
+      },
+      {
+        "uid": "u_oTL_Xevk_jlJPcw3BB0nDA",
+        "name": "小小",
+        "messageCount": 1926,
+        "percentage": 1.87
+      },
+      {
+        "uid": "u_rwuf-2es9Dtc0jKz7VODxA",
+        "name": "陌殇",
+        "messageCount": 1499,
+        "percentage": 1.46
+      },
+      {
+        "uid": "u_H4t9E74nSrPStZaFTJ7pcA",
+        "name": "傲娇无痕",
+        "messageCount": 1323,
+        "percentage": 1.29
+      },
+      {
+        "uid": "u_YUFCqMT8aaqF91THu87b4w",
+        "name": "<$ÿĀ\u0011\u0010>「世侯」(老九) [蓝某]",
+        "messageCount": 1251,
+        "percentage": 1.22
+      },
+      {
+        "uid": "u_gz_9t9vaBHVjW35sa3t6Sg",
+        "name": "寒蝉（红眼病仙傀）",
+        "messageCount": 1247,
+        "percentage": 1.21
+      },
+      {
+        "uid": "u_Q0TV1uLb-bA3oi3IeLU_RA",
+        "name": "逆天帝（名字归梦的主人）",
+        "messageCount": 1221,
+        "percentage": 1.19
+      },
+      {
+        "uid": "u_ZJ-Jupo2zRjxzzWeTXZ6yw",
+        "name": "我是嘟嘟哒",
+        "messageCount": 1031,
+        "percentage": 1
+      },
+      {
+        "uid": "u_5-f6sD5J5cOBra_HVTnRtQ",
+        "name": "卑鄙",
+        "messageCount": 1025,
+        "percentage": 1
+      },
+      {
+        "uid": "u_vZxQxJd-3X5W7QPIQrpMsQ",
+        "name": "薛九",
+        "messageCount": 955,
+        "percentage": 0.93
+      },
+      {
+        "uid": "u_15T1hM1iyM_UyH7Kkdp1zQ",
+        "name": "澄`",
+        "messageCount": 909,
+        "percentage": 0.88
+      },
+      {
+        "uid": "u_SiEANnmtUkcPeXONtIZUNQ",
+        "name": "化蝶",
+        "messageCount": 908,
+        "percentage": 0.88
+      },
+      {
+        "uid": "u_4pxdd24LKIMOCvMjLBhI8g",
+        "name": "影鬼",
+        "messageCount": 851,
+        "percentage": 0.83
+      },
+      {
+        "uid": "u_yg9mhyoC2DsDhkJnkuRWfQ",
+        "name": "无名之人",
+        "messageCount": 849,
+        "percentage": 0.83
+      },
+      {
+        "uid": "u_uRbBOiHSg9sgzN7GC8qD4w",
+        "name": "群主",
+        "messageCount": 805,
+        "percentage": 0.78
+      },
+      {
+        "uid": "u_TQpT9ddubDZWq7Evi2jv1A",
+        "name": "大竹",
+        "messageCount": 799,
+        "percentage": 0.78
+      },
+      {
+        "uid": "u_qDBiKP5Sk7fAnIWj6iOrLA",
+        "name": "装神（芙）弄鬼（桃）",
+        "messageCount": 774,
+        "percentage": 0.75
+      },
+      {
+        "uid": "u_-k5yMYw4R0vi7R47y7HQwg",
+        "name": "言梦",
+        "messageCount": 728,
+        "percentage": 0.71
+      },
+      {
+        "uid": "u_OO06c_xLHDwrfA1sM1SXiQ",
+        "name": "mkzi_nya",
+        "messageCount": 720,
+        "percentage": 0.7
+      },
+      {
+        "uid": "u_HxMsNVv3M74B13mFl2hq_g",
+        "name": "鸿·园的君主",
+        "messageCount": 655,
+        "percentage": 0.64
+      },
+      {
+        "uid": "u_NbHIxq3TN6yxuhdLITCxbg",
+        "name": "云自迢水自遥",
+        "messageCount": 618,
+        "percentage": 0.6
+      },
+      {
+        "uid": "u_d32YEvM4nTIjPrwhMA15bA",
+        "name": "荡子(纯舔狗）",
+        "messageCount": 534,
+        "percentage": 0.52
+      },
+      {
+        "uid": "u_tPM8dgUMNeNkFWQbez2uuA",
+        "name": "清灯绘梨梦",
+        "messageCount": 528,
+        "percentage": 0.51
+      },
+      {
+        "uid": "u_ygbb0Zrs2RlWPlvk0F-9iQ",
+        "name": "老贼",
+        "messageCount": 501,
+        "percentage": 0.49
+      },
+      {
+        "uid": "u_oKCGr7C4ZC_M-hFqrt4Tww",
+        "name": "废物x",
+        "messageCount": 489,
+        "percentage": 0.48
+      },
+      {
+        "uid": "u_GhhCRwe-gBZZQkkqtbveug",
+        "name": "AAA阿蒙人才市场（高中畜）",
+        "messageCount": 486,
+        "percentage": 0.47
+      },
+      {
+        "uid": "u_2vYUufI__s4I0dZLXpj1Qg",
+        "name": "南贺（迷途列车重度依赖）",
+        "messageCount": 465,
+        "percentage": 0.45
+      },
+      {
+        "uid": "u_1Lt3XrvPrqkPBYsDPdP6gg",
+        "name": "珏东",
+        "messageCount": 422,
+        "percentage": 0.41
+      },
+      {
+        "uid": "u_-9sE5pkdZdpJRGihQ2Lfpw",
+        "name": "<%ĀĀ␇Ô>孤忆",
+        "messageCount": 419,
+        "percentage": 0.41
+      },
+      {
+        "uid": "u_HC035B04kfFjj8DWTp8ShQ",
+        "name": "郑王",
+        "messageCount": 418,
+        "percentage": 0.41
+      },
+      {
+        "uid": "u_vURu1EJxMubS3StH9Tv9XQ",
+        "name": "悠闲的废物",
+        "messageCount": 418,
+        "percentage": 0.41
+      },
+      {
+        "uid": "u_PKoWYV6P7bnyMVOUZxgwxg",
+        "name": "Rnfmabj-锁",
+        "messageCount": 414,
+        "percentage": 0.4
+      },
+      {
+        "uid": "u_fL36SjL2z2SpZ4HXR7ftbw",
+        "name": "浮世清欢",
+        "messageCount": 399,
+        "percentage": 0.39
+      },
+      {
+        "uid": "u_08oEyUdgZE3feG0SuVGxJQ",
+        "name": "霜序<$ÿĀB ><%ĀĀ␇Ø>",
+        "messageCount": 391,
+        "percentage": 0.38
+      },
+      {
+        "uid": "u_l8gps3-WUWoxmC-nxfEfJw",
+        "name": "l天命主教l(天下第一苏吹头子)（伪天帝）",
+        "messageCount": 374,
+        "percentage": 0.36
+      },
+      {
+        "uid": "u_qs_n__7YBxk0myNGRI82iw",
+        "name": "101宿舍舍长老九",
+        "messageCount": 343,
+        "percentage": 0.33
+      },
+      {
+        "uid": "u_GSj7J4r20m_DiUKjJeL1JQ",
+        "name": "枫",
+        "messageCount": 335,
+        "percentage": 0.33
+      },
+      {
+        "uid": "u_XXo60CQ3SOgqXZh7mmGNQA",
+        "name": "梦中寻<光>没光了",
+        "messageCount": 334,
+        "percentage": 0.32
+      },
+      {
+        "uid": "u_XcvGKwAF1VhBQlGN1jZH4w",
+        "name": "炽冥北帝",
+        "messageCount": 323,
+        "percentage": 0.31
+      },
+      {
+        "uid": "u_SEfcjeg20XnuYEpru_-2AQ",
+        "name": "天下第亿鬼天帝",
+        "messageCount": 311,
+        "percentage": 0.3
+      },
+      {
+        "uid": "u_rbVCEJbm_IYLJSkTPUl9Hw",
+        "name": "摆烂了",
+        "messageCount": 288,
+        "percentage": 0.28
+      },
+      {
+        "uid": "u_1nBSNK9fnCb2QK0vV86ugA",
+        "name": "ㅤ⁧~喵⁧‭  DVD",
+        "messageCount": 279,
+        "percentage": 0.27
+      },
+      {
+        "uid": "u_a66uPjFM2yVMN88Z3yPxiA",
+        "name": "十一（重山）",
+        "messageCount": 278,
+        "percentage": 0.27
+      },
+      {
+        "uid": "u_4EFX2wwzJPA2eJ6zj5jahA",
+        "name": "几许",
+        "messageCount": 264,
+        "percentage": 0.26
+      },
+      {
+        "uid": "u_AZXOPattWyHY-9_nbxINUA",
+        "name": "承诺似如风",
+        "messageCount": 262,
+        "percentage": 0.25
+      },
+      {
+        "uid": "u_ucPrmwnAZC_nnwTcoW3hjw",
+        "name": "<%ĀĀ␇Û>魚魚",
+        "messageCount": 230,
+        "percentage": 0.22
+      },
+      {
+        "uid": "u_tV0hmvzH1_Sn_YTQ8o_G8Q",
+        "name": "听天色",
+        "messageCount": 225,
+        "percentage": 0.22
+      },
+      {
+        "uid": "u_LWypm5lKqyCARxFs73lxzQ",
+        "name": "<%ĀĀ\u0007Õ>𐌅 𐌅 𐌅（老十二）",
+        "messageCount": 209,
+        "percentage": 0.2
+      },
+      {
+        "uid": "u_3sQGJl5-zl1W-rqECBXyJg",
+        "name": "凌云舒语☆",
+        "messageCount": 203,
+        "percentage": 0.2
+      },
+      {
+        "uid": "u_goiEPqwkZGNgQj2hHw-9iw",
+        "name": "七忆",
+        "messageCount": 199,
+        "percentage": 0.19
+      },
+      {
+        "uid": "u_V7mjaFcPSIkRhqXuIkZYKA",
+        "name": "易碎暴怒🐻",
+        "messageCount": 198,
+        "percentage": 0.19
+      },
+      {
+        "uid": "u_Vv8urxRtqdQEUHUcv8zcyA",
+        "name": "好人",
+        "messageCount": 196,
+        "percentage": 0.19
+      },
+      {
+        "uid": "u_gtWRExpJMp8_GY3XFkBoNg",
+        "name": "墓肆",
+        "messageCount": 191,
+        "percentage": 0.19
+      },
+      {
+        "uid": "u_4aa-mnm5rUEUn6vL_xdp3A",
+        "name": "谜之男主角X",
+        "messageCount": 180,
+        "percentage": 0.18
+      },
+      {
+        "uid": "u_lUU_YXsevWgEH6u1arW5bQ",
+        "name": "云",
+        "messageCount": 171,
+        "percentage": 0.17
+      },
+      {
+        "uid": "u_r-8Ekr0w3X-AiysEwZS1jg",
+        "name": "CXXXL",
+        "messageCount": 168,
+        "percentage": 0.16
+      },
+      {
+        "uid": "u_Ud4hPTo1cogyMb8mIatXDA",
+        "name": "賦書（流年）",
+        "messageCount": 157,
+        "percentage": 0.15
+      },
+      {
+        "uid": "u_39WPXo_eathPvMIB7TbNfQ",
+        "name": "惊鹊",
+        "messageCount": 147,
+        "percentage": 0.14
+      },
+      {
+        "uid": "u_NPIrMef0uB8-tl2LrGN4MQ",
+        "name": "莫知秋",
+        "messageCount": 143,
+        "percentage": 0.14
+      },
+      {
+        "uid": "u_L06-nEMAW8Wa80guaNSHyQ",
+        "name": "抑（老七）〔秽土〕<&ÿĀĀĀ>",
+        "messageCount": 142,
+        "percentage": 0.14
+      },
+      {
+        "uid": "u_2h8TS8xoqKrcQRw0jA7yYQ",
+        "name": "猫猫",
+        "messageCount": 141,
+        "percentage": 0.14
+      },
+      {
+        "uid": "u_by4sCXvPmQ9LtHJnZ8ccyA",
+        "name": "长堤一痕",
+        "messageCount": 140,
+        "percentage": 0.14
+      },
+      {
+        "uid": "u_3-bwJjNYAoEKiXBt-701HA",
+        "name": "朗朗‭‭‭‭⁧~喵⁧",
+        "messageCount": 130,
+        "percentage": 0.13
+      },
+      {
+        "uid": "u_DLPg4_lkCTnRAgxdR1jaYw",
+        "name": "QWQ.",
+        "messageCount": 127,
+        "percentage": 0.12
+      },
+      {
+        "uid": "u_lZJgFZVgbY-3S3ct-_F_nQ",
+        "name": "Stovia",
+        "messageCount": 124,
+        "percentage": 0.12
+      },
+      {
+        "uid": "u_WGAd9SNKY1WH-DZGZJtAbg",
+        "name": "臭道士（接符算卦开光风水化太岁版）",
+        "messageCount": 124,
+        "percentage": 0.12
+      },
+      {
+        "uid": "u_i2NihpF0uTsC9gN0yGwweQ",
+        "name": "名字",
+        "messageCount": 123,
+        "percentage": 0.12
+      },
+      {
+        "uid": "u_5jH3wGEUAVSPl1hXUlknBA",
+        "name": "暴躁老鸽",
+        "messageCount": 120,
+        "percentage": 0.12
+      },
+      {
+        "uid": "u_5yiS0DH3BPdfUqfOle1ApQ",
+        "name": "等待",
+        "messageCount": 119,
+        "percentage": 0.12
+      },
+      {
+        "uid": "u_0LkJg0E18vpVi7lEd8PtpQ",
+        "name": "假天帝无敌",
+        "messageCount": 110,
+        "percentage": 0.11
+      },
+      {
+        "uid": "u_VKoJ7sF0d89s6XekNI2CGQ",
+        "name": "潜水人员",
+        "messageCount": 110,
+        "percentage": 0.11
+      },
+      {
+        "uid": "u_B8FjjYV-o9xq1UpUGanS6w",
+        "name": "五渡溪",
+        "messageCount": 110,
+        "percentage": 0.11
+      },
+      {
+        "uid": "u_2UEMdkMdme2gLtMgi2wHWA",
+        "name": "松酿（幸运四十叶草）",
+        "messageCount": 108,
+        "percentage": 0.11
+      },
+      {
+        "uid": "u_ZhT-rqt1ahgUdW8n9ppcKA",
+        "name": "要把世界点亮",
+        "messageCount": 107,
+        "percentage": 0.1
+      },
+      {
+        "uid": "u_PmxGsJErxkwN0ilC07NLWw",
+        "name": "Q群管家",
+        "messageCount": 105,
+        "percentage": 0.1
+      },
+      {
+        "uid": "u_KQGCGIEi0K-N29iHgD4uUw",
+        "name": "愚者（灰雾之上的神密主宰）",
+        "messageCount": 104,
+        "percentage": 0.1
+      },
+      {
+        "uid": "u_eBhEZzfjrcHeB0sc80KNNg",
+        "name": "球球",
+        "messageCount": 104,
+        "percentage": 0.1
+      },
+      {
+        "uid": "u_rz_GIuNImtwGBF8awFwg0g",
+        "name": "babyQ",
+        "messageCount": 101,
+        "percentage": 0.1
+      },
+      {
+        "uid": "u_L5CwHFY9_fiTOALrRt0XxQ",
+        "name": "<%ĀĀ␇Û>白马会所头牌",
+        "messageCount": 100,
+        "percentage": 0.1
+      },
+      {
+        "uid": "u_5Fg7ImrDhnTFXFnMgzI1dA",
+        "name": "长安.",
+        "messageCount": 90,
+        "percentage": 0.09
+      },
+      {
+        "uid": "u_FKLlbaeLyZfK1exTyeMMiw",
+        "name": "池鱼",
+        "messageCount": 88,
+        "percentage": 0.09
+      },
+      {
+        "uid": "u_pFLkZD4uD3Kie3Ku52VCKw",
+        "name": "郑雨澄",
+        "messageCount": 86,
+        "percentage": 0.08
+      },
+      {
+        "uid": "u_cWABjtM9NTeSPXXNzHiO9g",
+        "name": "清见欢",
+        "messageCount": 86,
+        "percentage": 0.08
+      },
+      {
+        "uid": "u_mQQPb8-J-fmubqghbox0pA",
+        "name": "ネф̶  イω（13）",
+        "messageCount": 84,
+        "percentage": 0.08
+      },
+      {
+        "uid": "u_5xGcqdK8q0EZ3eEmWfw3jg",
+        "name": "太白",
+        "messageCount": 83,
+        "percentage": 0.08
+      },
+      {
+        "uid": "u_uQLH_LWGaEFjR74AC_3cfw",
+        "name": "墨",
+        "messageCount": 83,
+        "percentage": 0.08
+      },
+      {
+        "uid": "u_IPYBLCrXe6bRA7Km3ykLug",
+        "name": "久敏",
+        "messageCount": 77,
+        "percentage": 0.07
+      },
+      {
+        "uid": "u_e27Zb2vlM_3tOLjUdLmq7w",
+        "name": "荡子姐对象",
+        "messageCount": 76,
+        "percentage": 0.07
+      },
+      {
+        "uid": "u__7_1aa2FFJ83OrVdVeTdWQ",
+        "name": "乆",
+        "messageCount": 73,
+        "percentage": 0.07
+      },
+      {
+        "uid": "u_bquof-gXci3c4Rsns5boGg",
+        "name": "啊对对对（19）",
+        "messageCount": 72,
+        "percentage": 0.07
+      },
+      {
+        "uid": "u_lKgdd6KXNwJWebryjm6c5Q",
+        "name": "陳如月（假吹头子）",
+        "messageCount": 70,
+        "percentage": 0.07
+      },
+      {
+        "uid": "u_44wTdLGXg8XTXartIG0NkQ",
+        "name": "生活不要再强奸我了，难道傻逼也是逼吗",
+        "messageCount": 68,
+        "percentage": 0.07
+      },
+      {
+        "uid": "u_MQKQkifQIfBSBgYcUb8yDw",
+        "name": "ASX—神 ⁧",
+        "messageCount": 67,
+        "percentage": 0.07
+      },
+      {
+        "uid": "u_Ew6I-_twWaDaxHnpblQwtg",
+        "name": "无言心散",
+        "messageCount": 59,
+        "percentage": 0.06
+      },
+      {
+        "uid": "u_FBO3MfXEkIy7UUpwUAouEA",
+        "name": "修狗狗（老六，高三死亡版）",
+        "messageCount": 58,
+        "percentage": 0.06
+      },
+      {
+        "uid": "u_13eTOJdyTaQ0UN7pTqXdCw",
+        "name": "无名",
+        "messageCount": 57,
+        "percentage": 0.06
+      },
+      {
+        "uid": "u_l3PSV9q3N7PnbOt7kMo34Q",
+        "name": "_",
+        "messageCount": 56,
+        "percentage": 0.05
+      },
+      {
+        "uid": "u_YBzHfq3nJaRDk0uMB_1wlw",
+        "name": "如云熙",
+        "messageCount": 55,
+        "percentage": 0.05
+      },
+      {
+        "uid": "u_j750d_JnJAeiEOunzKG3CA",
+        "name": "苏显儿",
+        "messageCount": 54,
+        "percentage": 0.05
+      },
+      {
+        "uid": "u_Cyxd3rkgyN0VK5Mays_k6w",
+        "name": "可依赖的半雪（开学）",
+        "messageCount": 53,
+        "percentage": 0.05
+      },
+      {
+        "uid": "u_1xCTHGpv2xsund4ixj2Rlw",
+        "name": "白氏",
+        "messageCount": 49,
+        "percentage": 0.05
+      },
+      {
+        "uid": "u_9ZLg6ttrHQFrnBRidw0u4Q",
+        "name": "晓皇",
+        "messageCount": 49,
+        "percentage": 0.05
+      },
+      {
+        "uid": "u_Zy-ZT4uWkZWejFKgGNNywQ",
+        "name": "泠泠七弦",
+        "messageCount": 47,
+        "percentage": 0.05
+      },
+      {
+        "uid": "u_2_pnj79lH1-JU2jUJoRrmg",
+        "name": "冒泡之人",
+        "messageCount": 47,
+        "percentage": 0.05
+      },
+      {
+        "uid": "u_A2HEtNY0PkzJ_UKzd31flg",
+        "name": "浅灰🏸",
+        "messageCount": 45,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_QUsZb8PzoonlUNubDzCSqg",
+        "name": "<%ĀĀ␇Ö>呵",
+        "messageCount": 45,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_lF-n64OPRz_gPEhBW-5Evg",
+        "name": "月亮与六便士",
+        "messageCount": 45,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_iAlpeGHP7PavOLwDzBWa4A",
+        "name": "木木木",
+        "messageCount": 44,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_5Z81tNDcaMg95DYyTMohvg",
+        "name": "老大朵（糖糖小迷妹坠姐的狗群宠小跟班",
+        "messageCount": 44,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_XCGUake237E-d5Ewn9m2Rw",
+        "name": "AL_1S",
+        "messageCount": 43,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_McXvyBSeqqpv0370tskkpg",
+        "name": "0",
+        "messageCount": 42,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_6LQ5r2TOUKskb54VEkwAgQ",
+        "name": "坐以待币",
+        "messageCount": 42,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_VR4WaeFTctXX-0o7_ceHZw",
+        "name": "无聊",
+        "messageCount": 42,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_MNmHMCGATKrtzCCOeopj2Q",
+        "name": "Miraitowa",
+        "messageCount": 42,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_bW-Z2NYNLY57ijqjnf1RIA",
+        "name": "缘梦泡影",
+        "messageCount": 41,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_lZfLPhzPT_YgPO20U7ge3g",
+        "name": "猫九",
+        "messageCount": 40,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_PBlc9TfL6sTyJ_jgCYqi8A",
+        "name": "晏秋",
+        "messageCount": 40,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_SxA1pyZgrt6_Of8rv9WcpA",
+        "name": "兔兔能有什么坏心思呢",
+        "messageCount": 39,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_OUv55PfNNKOtGS9Jj2ZdAA",
+        "name": "烤鱼（酆都专卖店）",
+        "messageCount": 39,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_daJ4MpQn9o0p6jDTEmS-Ig",
+        "name": "32分13秒（一命速死）",
+        "messageCount": 39,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_10dCrMhUEzLPBZuC_WXb9w",
+        "name": "悠闲的废物",
+        "messageCount": 39,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_jTWLaocjA6x_-DRugWefjw",
+        "name": "影子",
+        "messageCount": 38,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_AuX5_Lvey6t4gTtu-3lR2Q",
+        "name": "peace鸽^q^",
+        "messageCount": 37,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_ARYA7pvRsDuzo8Fqzbi1og",
+        "name": "一二三四五四三二一",
+        "messageCount": 37,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_fKh-pZDgKCFX1Co0bipTIQ",
+        "name": "觉醒了C级天赋的普通人",
+        "messageCount": 36,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_YFO8Vi3Vnzu_bKLf931FXg",
+        "name": "。",
+        "messageCount": 36,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_bWVbj5hX7AkVeAfAE6DDcw",
+        "name": "傻和尚",
+        "messageCount": 35,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u__zYa_L5K5oxrt6IAMdabxQ",
+        "name": "Crush",
+        "messageCount": 35,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_yCxShfLWQMPzFQMey1PANQ",
+        "name": "坠",
+        "messageCount": 35,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_dp_xciNl483hK_wnh3M7XA",
+        "name": "江白的大脑好阴暗",
+        "messageCount": 34,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_pcm2XGDESs5H4wFFYCSykw",
+        "name": "无常",
+        "messageCount": 34,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_AnXfN0HtjRmh2xdfgpqYUw",
+        "name": "偷摸着在群里摸鱼",
+        "messageCount": 33,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_0JKIW8l2UBLiKUkVeGLU3A",
+        "name": "遥春",
+        "messageCount": 33,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_C7haSYZMPCnecZwj7NejzQ",
+        "name": "太白经天",
+        "messageCount": 32,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_MTQuJm0ZQvmnBbFV51QTXA",
+        "name": "梦魇(苏吹头子)",
+        "messageCount": 31,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_1VuEvyVR1JjO-NmtTP-FrQ",
+        "name": "<%ĀĀ\u0007Ý>巴别塔恶灵 风无忧",
+        "messageCount": 30,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_aZtBffdGLuBzCBvKFzb0-A",
+        "name": "羽凌",
+        "messageCount": 30,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_vakjop5qQm5XLQqO3vZjhQ",
+        "name": "可",
+        "messageCount": 29,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_vjrIEGZUWVeQMHPhu-l4wg",
+        "name": "春秋必成",
+        "messageCount": 29,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_Z-KwUH6sS_FrcfB0jSpkBQ",
+        "name": "隐纠",
+        "messageCount": 28,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_8pCTauGkgopFuuEFnM-DcQ",
+        "name": "夕沐籽",
+        "messageCount": 28,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_F92HoXNGyJcCdzyzXSlm9w",
+        "name": "az算无一策",
+        "messageCount": 27,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_sugwjV7gSzH5b7JHpGZtew",
+        "name": "0",
+        "messageCount": 27,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_emBtGSzg9L6C1gtxbOgWMQ",
+        "name": "寻一抹春色",
+        "messageCount": 27,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_LMvuI_OJ5PrHtDBlXvR0Gg",
+        "name": "逍遥子",
+        "messageCount": 27,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_tAgXOsA4KUNvo_HflgWHxA",
+        "name": "IX",
+        "messageCount": 26,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_-Ij6mBiIF6SaXpUnE25mVw",
+        "name": "牢白",
+        "messageCount": 26,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_0Z59KugCCIMtkusRaIozcA",
+        "name": "楓宇钏",
+        "messageCount": 25,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_wCypD_j-onQiU3gMf3qZWg",
+        "name": "归梦",
+        "messageCount": 25,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_LYIjLV5o6Agq15dGfCzmWw",
+        "name": "我也要死吗",
+        "messageCount": 24,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_M11Gay_ji196FiUUQ-w49g",
+        "name": "″柠汐ヾ~",
+        "messageCount": 24,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_DTmgyaqiJJPwO176XeSZLg",
+        "name": "我没有史莱姆ang",
+        "messageCount": 24,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_Af093X5tM6BxLn2KVaisuw",
+        "name": "若有梦",
+        "messageCount": 23,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_CvXRCgIQaLiob4km5Zfv-w",
+        "name": "阿墨墨墨",
+        "messageCount": 23,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_GrKUYTE8iK-4OQiy27O1MA",
+        "name": "七辰",
+        "messageCount": 23,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_pQQfeqXHjOg9aLWkgitzaA",
+        "name": "𝙕.",
+        "messageCount": 23,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_kP9Wa2ijAtT0y2srSjnLWw",
+        "name": "咕噜咕噜滚下山",
+        "messageCount": 22,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_h1ExReCetHRhBXzTUC4e-A",
+        "name": "♤Just like this.",
+        "messageCount": 22,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_v9_9YyL-bfVG6wcnvgYz3Q",
+        "name": "安卿城归",
+        "messageCount": 21,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_GbvGoRPmjfi3A4bOZUMEUg",
+        "name": "Somnus丶M",
+        "messageCount": 20,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_msewJmK_KW8yvUbQrwJvng",
+        "name": "0",
+        "messageCount": 20,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_JLxxedhFPu8QFMpkO2hcOw",
+        "name": "@——@",
+        "messageCount": 19,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_mXpCrzgG9I4OWrz57s5m_A",
+        "name": "雨落星辰",
+        "messageCount": 19,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_djHbAW3Brn83AyxZibPqNg",
+        "name": "素",
+        "messageCount": 19,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_f3U311Oo9Y7DFLg4OD6ZAQ",
+        "name": "闲游",
+        "messageCount": 19,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_3BQgvUzMIRhaNl72p6z_ug",
+        "name": "世无",
+        "messageCount": 19,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_hmFv86XRoLv4TNih0vYheA",
+        "name": "辞年",
+        "messageCount": 19,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u__xbEYPDIAlYQsG406lNJsQ",
+        "name": "恒志",
+        "messageCount": 18,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_GS-53wmVfvskx9KbsQN8bQ",
+        "name": "<%ĀĀ\u0007Ú>颜与月",
+        "messageCount": 18,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_rQUhyrMLW7A3NhP08RLVtQ",
+        "name": "叶九",
+        "messageCount": 18,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_7T8GywWInwc2oWyCghOXZQ",
+        "name": "潜",
+        "messageCount": 18,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_6vhGOpjZJUjKhjwp1iZC6g",
+        "name": "满天星",
+        "messageCount": 18,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_pTUPMBxFficdoMfIDGknmQ",
+        "name": "嘲风咏月",
+        "messageCount": 17,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_3ZBMxVNG91RNp_2dxGWqHA",
+        "name": "权",
+        "messageCount": 17,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_ngOzaKfJv2PcwJHA8B-9ZQ",
+        "name": "🌴",
+        "messageCount": 17,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_JlHie-pE2xu5v1Lo3bfqew",
+        "name": "青明上河图（青天帝）",
+        "messageCount": 17,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_zf8xhA2paF43UkgMXc2YKQ",
+        "name": "浮云",
+        "messageCount": 16,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_SFr6s8drjUQz3pEEC0L1uw",
+        "name": "自爆小伙",
+        "messageCount": 16,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_stu8lAq5azx0D4T6K37pLQ",
+        "name": "欢煜",
+        "messageCount": 16,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_bbLbpH-VbRtB0qzlyo5FKw",
+        "name": "心有萌虎，细嗅蔷薇",
+        "messageCount": 16,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_xvKn4s6INGTUH9w1W8pSTA",
+        "name": "小王123",
+        "messageCount": 16,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_IcXxERDNuPK5s7FcZlJpuw",
+        "name": "清祀",
+        "messageCount": 16,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_9jPkP7Qn9vntG_8aXYGYJg",
+        "name": "此夜曲中闻折柳",
+        "messageCount": 15,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_4yt9lidOgppZi8duGu6z8A",
+        "name": "薇薇",
+        "messageCount": 15,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_fO8mECW-LKVf-Dyyh_oAWQ",
+        "name": "柒",
+        "messageCount": 15,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_EAfnKj2FVeEH_AW-hqugaA",
+        "name": "穿林",
+        "messageCount": 14,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u__OjktKyzAh7p7JZPkymT0w",
+        "name": "左落",
+        "messageCount": 14,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u__brpJsE_24qEgxJnt2CIzA",
+        "name": "我的网名叫没有网名",
+        "messageCount": 14,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_RDAVhHP_OsoFBspd8A1ncQ",
+        "name": "冉义夜稷",
+        "messageCount": 14,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_pXG2MaIt2j-yGWhoZLQsJA",
+        "name": "纸映瞳",
+        "messageCount": 14,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_5y0jrcUmjpEyEHCcCJfpJA",
+        "name": "精神二两钱",
+        "messageCount": 14,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_QLKoQSxe3kHu5BBAz7M7fg",
+        "name": "<%ĀĀ␇Ô>丑陋的爱心",
+        "messageCount": 13,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_ABzn-OQzajzU7RtooQR0gQ",
+        "name": "知命",
+        "messageCount": 13,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_5fksgIBj5pEn3G2JOhh8rw",
+        "name": "百无一用是痴心",
+        "messageCount": 13,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_l38fOit0RjHxt-EZUlYmpw",
+        "name": "Avmewx",
+        "messageCount": 12,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_v9CaD4ODR_Xjce5pjIT8sQ",
+        "name": "许无敌",
+        "messageCount": 12,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_ynnrom4dskEZN5tyGeBb1A",
+        "name": "冷枫(躺平)",
+        "messageCount": 12,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_z3v4YDj2SCizWUqVEEubPg",
+        "name": "三江琥珀",
+        "messageCount": 12,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_CuyAdyVEJ99KnOCKtKmwhw",
+        "name": "群星——林长青",
+        "messageCount": 12,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_LqLROzkQgFkGLltRuO_Jvw",
+        "name": "狗白他爹<$²>",
+        "messageCount": 11,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_pzZvqWscs8zB8BvRRGsqCQ",
+        "name": "白甴",
+        "messageCount": 11,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_ja9v9tc6Kp_27n9GAhZ80A",
+        "name": "追梦少年",
+        "messageCount": 11,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_9Kp14l_g5ziBcFMLMx2qXw",
+        "name": "ㅤ呓",
+        "messageCount": 11,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_fr5u432vQeMbcd-pL_BrbA",
+        "name": "清风",
+        "messageCount": 11,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_hjMCXtRnrH6N9VjBVubrZw",
+        "name": "霜雪覆林",
+        "messageCount": 11,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u__sHzVlrqbruOlqUJp54YBA",
+        "name": "赞美梦魇无痕逍遥修罗，至强者庇护",
+        "messageCount": 11,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_IOAoDN3_FMBHEA2_EU6QZg",
+        "name": "基里艾洛德之神",
+        "messageCount": 11,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_EntwBQCWP7CHRPxpyJwbUQ",
+        "name": "雾诏匿玫瑰.",
+        "messageCount": 11,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_buOJCxcofDwM4792U7Vm0A",
+        "name": "威笑",
+        "messageCount": 11,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_-BGZH8DL_gsbz32auvsMeA",
+        "name": "ㅤㅤㅤㅤㅤ",
+        "messageCount": 11,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_Nq1cptXFb5oWmQ87cHrayQ",
+        "name": "万磊",
+        "messageCount": 10,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_46PAAzBHjRbkXtr2wtul5w",
+        "name": "涟漪",
+        "messageCount": 10,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_ENDKjxPQcBmwJaQCZtVzCg",
+        "name": "跟上暴叔的节奏",
+        "messageCount": 10,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_zXGxRaW1zp8lnrR7KzCmIw",
+        "name": "0",
+        "messageCount": 9,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_yKQDqv8PUEObHeNvfMZsgw",
+        "name": "打瞌睡的张可乐",
+        "messageCount": 9,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_bJgPZRzdFrzMzSMDL7feqA",
+        "name": "影4399",
+        "messageCount": 9,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_iF8ErHzpm5u-YgFtQF3GwA",
+        "name": "道天",
+        "messageCount": 9,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_yEQL1dIIvDhu8uofaw2Wqg",
+        "name": "枉之",
+        "messageCount": 9,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_xA0PXCmp8o88lF08EHrS1w",
+        "name": "狗白保护我",
+        "messageCount": 9,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_Ve5vJdpFg9aTp2w8DnuKSg",
+        "name": "司若",
+        "messageCount": 9,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_8TI41OVbY7z6KknpCvL4sg",
+        "name": "0",
+        "messageCount": 9,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_6fXgdaeF3qDt8-nn8HEmkA",
+        "name": "影将4399",
+        "messageCount": 9,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_zGlFrUU49lTxFoECo0IrWw",
+        "name": "吾乃人族通天战神风法第一许无敌！",
+        "messageCount": 9,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_296xtkEpk4UgAIL2g-ZgUg",
+        "name": "无趣",
+        "messageCount": 9,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_2RLf9h_fDUMnxEEpxmemOA",
+        "name": "薛猛子",
+        "messageCount": 8,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_grSWYt_bF5llZIndStKAFg",
+        "name": "言克己（急娃娃）",
+        "messageCount": 8,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_3gFvSP3CdpobQSyNpkMEvQ",
+        "name": "秦兮梧",
+        "messageCount": 8,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_7iejpevTu4MMhUHrZ446og",
+        "name": "归零者文明",
+        "messageCount": 8,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_9OL2ndW8c-HwGtPtK11QgQ",
+        "name": "美瓷仙品",
+        "messageCount": 8,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_OvILC8PJc12Sm3-7-EQL7g",
+        "name": "江南晚来客",
+        "messageCount": 7,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_ybuygiSLwMpN5pS1NqWk0w",
+        "name": "吴",
+        "messageCount": 7,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_7WV3w4kzD3wCOQpLQqRQqg",
+        "name": "雪里看花",
+        "messageCount": 7,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_g_6Uri8pmUckn90x6NgHDQ",
+        "name": "鹅探长",
+        "messageCount": 7,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_Rd-n0nOirDaND8R1zOJXbA",
+        "name": "无趣",
+        "messageCount": 7,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_E4KF6scPV799lGrxfTUcRg",
+        "name": "南柯故人♧",
+        "messageCount": 7,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_leFepFkxReKolO1Gi5wZtw",
+        "name": "某條鹹魚",
+        "messageCount": 7,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_3Xh-r-7lX_3YwPBKzjsdYg",
+        "name": "使命召唤老六本六",
+        "messageCount": 7,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_CC1dV9F5w5dTL2tgzfrw9w",
+        "name": "雨后晴空",
+        "messageCount": 7,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_hinoIZuIRN0qvHxsHVLVgQ",
+        "name": "栩",
+        "messageCount": 7,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_HghD-KT4b7Uj4K-2k259kg",
+        "name": "欢愉令使-墨",
+        "messageCount": 6,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_ULSTBZlTNExTiv3l7MGFCw",
+        "name": "？",
+        "messageCount": 6,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_TR15McnHIr8cffRHG-RvnA",
+        "name": "一只小小羊",
+        "messageCount": 6,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_fmnWkEDrHmt5caxwpiI_NQ",
+        "name": "凸^_^凸",
+        "messageCount": 6,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_HNH1WZ_mAVj5q-WWBh2b-g",
+        "name": "。",
+        "messageCount": 6,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_niN_uHy-b22bEY7VAKVJuw",
+        "name": "换个什么名字好呢",
+        "messageCount": 6,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_0vRPG4qpoBNmr6mV22vsnA",
+        "name": "新木",
+        "messageCount": 6,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_1kXZIYErBpOS4D_kKsRNog",
+        "name": "小影子啊",
+        "messageCount": 6,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_GcLf_y-ooXlSyXTjMXh3hw",
+        "name": "常忧",
+        "messageCount": 5,
+        "percentage": 0
+      },
+      {
+        "uid": "u_wiuP3HCTNVnriIc-zInZSQ",
+        "name": "皎月轻纱",
+        "messageCount": 5,
+        "percentage": 0
+      },
+      {
+        "uid": "u_HxdZ8FIsH2o_KqZm2cEyoQ",
+        "name": "hastur",
+        "messageCount": 5,
+        "percentage": 0
+      },
+      {
+        "uid": "u_6BSGWk5L-fgL87lmTNmfWw",
+        "name": "陌影.",
+        "messageCount": 5,
+        "percentage": 0
+      },
+      {
+        "uid": "u_YlMWnicDSnPpgR76dK9Irg",
+        "name": "☾曦☽",
+        "messageCount": 5,
+        "percentage": 0
+      },
+      {
+        "uid": "u_JSefK7PpDSZnhn0HsbJsuA",
+        "name": "辞",
+        "messageCount": 5,
+        "percentage": 0
+      },
+      {
+        "uid": "u_7KZ5wIUp2QKJZb6wtXrvAw",
+        "name": "清河&松林",
+        "messageCount": 5,
+        "percentage": 0
+      },
+      {
+        "uid": "u_2CuKTZqlkZvvXPljSMUWiA",
+        "name": "不成瑶",
+        "messageCount": 5,
+        "percentage": 0
+      },
+      {
+        "uid": "u_63lPLdK05vkjr8aa_WglHA",
+        "name": "槲梦无月",
+        "messageCount": 5,
+        "percentage": 0
+      },
+      {
+        "uid": "u_a7DHafQh3KIrFZecNoEWRA",
+        "name": "……",
+        "messageCount": 5,
+        "percentage": 0
+      },
+      {
+        "uid": "u_PYECe6pC0KGDpUZ9im_Afg",
+        "name": "凤梨酥",
+        "messageCount": 5,
+        "percentage": 0
+      },
+      {
+        "uid": "u_nxTI9Opy6Xb6NCp9v8FfOg",
+        "name": "小九",
+        "messageCount": 5,
+        "percentage": 0
+      },
+      {
+        "uid": "u_Xyd5xguiMCaz0b-iLUWpiA",
+        "name": "🌈你看这只笨笨苏",
+        "messageCount": 5,
+        "percentage": 0
+      },
+      {
+        "uid": "u_IimnaP-Ox8BauwYv71HgRQ",
+        "name": "人生进度条：░░░░░░",
+        "messageCount": 5,
+        "percentage": 0
+      },
+      {
+        "uid": "u_Rj1bz28Gvrv9ADcUr-2aGw",
+        "name": "开学了别踢",
+        "messageCount": 4,
+        "percentage": 0
+      },
+      {
+        "uid": "u_k8Pdu1uyk55XDvXTP6RuAA",
+        "name": "杰",
+        "messageCount": 4,
+        "percentage": 0
+      },
+      {
+        "uid": "u_BPFZhUFC2ZEAuaTSj-Zs5Q",
+        "name": "!",
+        "messageCount": 4,
+        "percentage": 0
+      },
+      {
+        "uid": "u_YUuiIbzl9rD78SJI2hB_Sw",
+        "name": "鬼大无言",
+        "messageCount": 4,
+        "percentage": 0
+      },
+      {
+        "uid": "u_Lul_BYHSa3fMV2IDGw6wRg",
+        "name": "Zeiu.",
+        "messageCount": 4,
+        "percentage": 0
+      },
+      {
+        "uid": "u_L8iv-xTJsMxiJIOOVDuU1w",
+        "name": "屑",
+        "messageCount": 4,
+        "percentage": 0
+      },
+      {
+        "uid": "u_EGeCEF6llyF9k06VXqw-NA",
+        "name": "123456",
+        "messageCount": 4,
+        "percentage": 0
+      },
+      {
+        "uid": "u_hmhh1j3nrtMala8AyopxPw",
+        "name": "露灵隐魂",
+        "messageCount": 4,
+        "percentage": 0
+      },
+      {
+        "uid": "u_LG-pmj_GVQKQSFQagPVUOg",
+        "name": "无",
+        "messageCount": 4,
+        "percentage": 0
+      },
+      {
+        "uid": "u_eSv8PBnBgoJ7eoXpMzgk4g",
+        "name": "星河等待",
+        "messageCount": 4,
+        "percentage": 0
+      },
+      {
+        "uid": "u_XH-RCbKZJzb8n6xprvY37A",
+        "name": "抽不到sp莹草不改名",
+        "messageCount": 4,
+        "percentage": 0
+      },
+      {
+        "uid": "u_bwfFoV2gCvb9QgvcvMBe7w",
+        "name": "寡妇床底少年郎",
+        "messageCount": 4,
+        "percentage": 0
+      },
+      {
+        "uid": "u_8dzlqOm_ZnU-uBsIKjiIgw",
+        "name": "匿名的007",
+        "messageCount": 4,
+        "percentage": 0
+      },
+      {
+        "uid": "u_Ov55Tq8kD83gJTJrr_v3AA",
+        "name": "天",
+        "messageCount": 4,
+        "percentage": 0
+      },
+      {
+        "uid": "u_soHz3h3xqnt0D2KQCMOOow",
+        "name": "黯业",
+        "messageCount": 4,
+        "percentage": 0
+      },
+      {
+        "uid": "u_gCyYQGd1nrCN9iS4uDM7gA",
+        "name": "Ich liebe Dich   ！",
+        "messageCount": 4,
+        "percentage": 0
+      },
+      {
+        "uid": "u_pQlSjMtyJUoP66xnVhjX-A",
+        "name": "许知秋",
+        "messageCount": 4,
+        "percentage": 0
+      },
+      {
+        "uid": "u_EFIrMDkDKby-5UcynzTYtg",
+        "name": "顾熙凡",
+        "messageCount": 3,
+        "percentage": 0
+      },
+      {
+        "uid": "u_9TzwgRXPz4M99tKOFFBGuA",
+        "name": "君故",
+        "messageCount": 3,
+        "percentage": 0
+      },
+      {
+        "uid": "u_HHaDScmX1bFGry9Q8fww8Q",
+        "name": "lix",
+        "messageCount": 3,
+        "percentage": 0
+      },
+      {
+        "uid": "u_yP8OvFL8lc6mmmAT3yq5hQ",
+        "name": "赞美至强者修罗，梦魇大哥庇佑（梦天帝）",
+        "messageCount": 3,
+        "percentage": 0
+      },
+      {
+        "uid": "u_nND3ngNRKu8ABtRo_K3Z_A",
+        "name": "千叶底层唱见",
+        "messageCount": 3,
+        "percentage": 0
+      },
+      {
+        "uid": "u_OVrk7_N5UXuprG4Xt1Qk0Q",
+        "name": "浮璧👑",
+        "messageCount": 3,
+        "percentage": 0
+      },
+      {
+        "uid": "u_5X6RvHew4rpRiRqjqn_NGA",
+        "name": "张扶灵",
+        "messageCount": 3,
+        "percentage": 0
+      },
+      {
+        "uid": "u_hvgNh7U1Qwz-VaRn1eevKw",
+        "name": "后述雨",
+        "messageCount": 3,
+        "percentage": 0
+      },
+      {
+        "uid": "u_ybyUk15JEkn_Wqun1EuV2A",
+        "name": "伪骨就是最强的",
+        "messageCount": 3,
+        "percentage": 0
+      },
+      {
+        "uid": "u_4E3UPW7hPA81S_5qH9CxZg",
+        "name": "雷冬石",
+        "messageCount": 3,
+        "percentage": 0
+      },
+      {
+        "uid": "u_OeLzcyZtjyxOvE81GsuA8A",
+        "name": "言若",
+        "messageCount": 3,
+        "percentage": 0
+      },
+      {
+        "uid": "u_LbZRU2hyDqNRdyt6urLzqA",
+        "name": "明",
+        "messageCount": 3,
+        "percentage": 0
+      },
+      {
+        "uid": "u_5zSDL7-6jxMGqOqCT3ryWw",
+        "name": "N.枫羽",
+        "messageCount": 3,
+        "percentage": 0
+      },
+      {
+        "uid": "u_5efA7qp5A5uz32NiQh9tvg",
+        "name": "天帝之首鬼鬼",
+        "messageCount": 3,
+        "percentage": 0
+      },
+      {
+        "uid": "u_HnVsAzsz1kdAmoONeTxq-Q",
+        "name": "秦时",
+        "messageCount": 3,
+        "percentage": 0
+      },
+      {
+        "uid": "u_5E9Jyrfu-bCkFb5BX6FhMw",
+        "name": "∽",
+        "messageCount": 3,
+        "percentage": 0
+      },
+      {
+        "uid": "u_gkxTSBFbG30CD6eVCkXM3w",
+        "name": "子小木小 老π",
+        "messageCount": 3,
+        "percentage": 0
+      },
+      {
+        "uid": "u_JDWWGFovYDvV77ISjKsfHw",
+        "name": "许你 清风",
+        "messageCount": 3,
+        "percentage": 0
+      },
+      {
+        "uid": "u_u7Yac1vDjJn4JVnqFRXp6g",
+        "name": "阿木咯堵衍",
+        "messageCount": 3,
+        "percentage": 0
+      },
+      {
+        "uid": "u_DruMWcHAKNH3Eej2jolelA",
+        "name": "渡午时",
+        "messageCount": 3,
+        "percentage": 0
+      },
+      {
+        "uid": "u_Uib1DjkPnK5v0m0JPCBlAg",
+        "name": "LW丶清明",
+        "messageCount": 3,
+        "percentage": 0
+      },
+      {
+        "uid": "u_1tTGqb2Ofei8meyfs3Y7Ng",
+        "name": "时樱落雨",
+        "messageCount": 3,
+        "percentage": 0
+      },
+      {
+        "uid": "u_gicZ630NcvrpLa5KFsa6iQ",
+        "name": "风ャ飛メ沙",
+        "messageCount": 3,
+        "percentage": 0
+      },
+      {
+        "uid": "u_KjGNuWFF7tAmjzywq2iFQw",
+        "name": "闲",
+        "messageCount": 3,
+        "percentage": 0
+      },
+      {
+        "uid": "u_0dOJx3WNviNX4sjPX9kEAA",
+        "name": "枫",
+        "messageCount": 3,
+        "percentage": 0
+      },
+      {
+        "uid": "u_ZWLKnEsCv4kxVzs-WHLcnw",
+        "name": "0",
+        "messageCount": 3,
+        "percentage": 0
+      },
+      {
+        "uid": "u_bqMK3KvTK1tEOA7KEjeBjA",
+        "name": "北笺",
+        "messageCount": 3,
+        "percentage": 0
+      },
+      {
+        "uid": "u_X3f9QZSFCykMWGq7ptOzpg",
+        "name": "bb",
+        "messageCount": 3,
+        "percentage": 0
+      },
+      {
+        "uid": "u_Arhqni0WxlKNi9--pbezEA",
+        "name": "零逍遥",
+        "messageCount": 3,
+        "percentage": 0
+      },
+      {
+        "uid": "u_9FFndTo3hQe15le-vEQKMA",
+        "name": "讋鸗襲龔",
+        "messageCount": 3,
+        "percentage": 0
+      },
+      {
+        "uid": "u_WyVn3jkwWqBTsw9rWKuNcg",
+        "name": "请叫我喝水",
+        "messageCount": 3,
+        "percentage": 0
+      },
+      {
+        "uid": "u_zDk52ePD0No2_QqSBiCe0Q",
+        "name": "cloudy",
+        "messageCount": 3,
+        "percentage": 0
+      },
+      {
+        "uid": "u_2hMKN-0MrcZiTgu7EK2AjA",
+        "name": "白木",
+        "messageCount": 3,
+        "percentage": 0
+      },
+      {
+        "uid": "u_dfjgrVOHDcX6wG4ipeUqVg",
+        "name": "奥利给大菠萝（老八）",
+        "messageCount": 3,
+        "percentage": 0
+      },
+      {
+        "uid": "u_aKa1CIIjU2Q0vZ4GjD0-Hg",
+        "name": "牵一发",
+        "messageCount": 3,
+        "percentage": 0
+      },
+      {
+        "uid": "u_z-DELGAApoX59fQNevGVlA",
+        "name": "白熊",
+        "messageCount": 3,
+        "percentage": 0
+      },
+      {
+        "uid": "u_M73q9IuuXSAi-RJonWNtCw",
+        "name": "忆昔",
+        "messageCount": 3,
+        "percentage": 0
+      },
+      {
+        "uid": "u_419h12K5harOLCYntzUMdw",
+        "name": "非人外",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_jDB2bk4nZyRlh5BY3er_7g",
+        "name": "🦀",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_y-zD-SMKdGbAbi2UaKMSTw",
+        "name": "无痕",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_5mF1mWpxbNAfrxzqKzAnvw",
+        "name": "LOSP",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_fv1Rzxe6A34hoRp1XocHqw",
+        "name": "梦魇怀里的小石子",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_6dHfFdoKwkdNPjJTN-JHEQ",
+        "name": "星辰",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_A5wAJM_XEtntw-DIjBEPOw",
+        "name": "天天",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_579AdEp5Fcw_iQEqusuZaQ",
+        "name": "咦呦",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_HryQDLAOeyz0YZuflHaI-g",
+        "name": "月湘",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_0NQT4turo__oP-pFFnjzpQ",
+        "name": "影七赵紫烟",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_GxLmvCtjC2myBTwPDA8wKg",
+        "name": "痊愈的hentai",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_Y6YpgKDrohFo1y3sK9pQqg",
+        "name": "艾尔·凝",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_SMagvsUm3IyIyfFJ6bSdjw",
+        "name": "名字",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_F9--aYXMZGzj_-2f1aRk2w",
+        "name": "北冥",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_Ix7Uwdl2KAdZmy5qT6aDSg",
+        "name": "陈二九",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_r4wmzGVh3dkxVHfU_e8WcA",
+        "name": "Ricardo.钍",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_EM_ktBLL1_y0YTES7RZtqA",
+        "name": "momo",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_odGZwbGRBnwyeT6yvnOJOg",
+        "name": "森",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_ubxPjDZsSJ8kU_mwXwe2vQ",
+        "name": "伱の笑，讓我覺得狠刺眼",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_FcT76Cz57MRctZ76ceqohQ",
+        "name": "水墨的爸爸",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_w-8Fk3lMhDjtkyCTDit-rg",
+        "name": "奇迹师",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_BhrtfK93pQlh4C9djNLWGg",
+        "name": "@.",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_k3FsV9qBnI0hAPAATB7-Ag",
+        "name": "故颜",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_U-YkkB0boOF046XHvL4SMw",
+        "name": "阙萧",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_nHIkW1HWIy_MDhue1AOyQw",
+        "name": "你我皆凡人",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_DRF4fUgxQW0SIYsLwxVdsw",
+        "name": "把",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_CUaHoYzKNMVBS4Wf-iqeGg",
+        "name": "数学去死！！！",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_cmiURDy-OSZWUQSACxXlcw",
+        "name": "青空栀浅",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_fOt7zIvtsKKYSOhkXfRdBw",
+        "name": "染",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_GiIXCEgJS8HMFhSs_DER-A",
+        "name": "说玩笑像真",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_kPDFFV3vYDKFQzIoat0Vaw",
+        "name": "宝藏女孩沈幼楚",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_wNfs7nUJ6tubmG4JekurYQ",
+        "name": "⁣​⁣⁠ ⁡ᯤ⁵²⁰8ᴳ⁺",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_179PbmF0KcrV0p1j1dVnxw",
+        "name": "叶九",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_uK6oKwG9eSJXEgoICj2vjw",
+        "name": "Gewinn",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_2XrC-dussRJQO5DKOurqaQ",
+        "name": "第22页",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_CeyemRtjenWO2o6yJs_VrQ",
+        "name": "🤣",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_9GPRMbzPuuJSj8xzq1ya7A",
+        "name": "。",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_U-jPkCy78BTqs3kgV5qSsQ",
+        "name": "离隐",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_WjoyZabtvQeYd6mlIyZwaQ",
+        "name": "了无傲骨",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_OBO5T3HvY9cgHlRC1kzd8A",
+        "name": "...",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_DPl0OoLBYzhA_Fdl3I3CQA",
+        "name": "金银(开学)",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_M5qZsCVRA_jbREuC8sNWHQ",
+        "name": "精神状态：混乱",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_t0UzwEmEFCg4a-jZKJPghA",
+        "name": "1713665421",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_w0bgsVcCqUPDEMqR8PYFVQ",
+        "name": "北城的叶寸心",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_PYXUDsm6rm-Qxc92uwHyQw",
+        "name": "寻踪问迹",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_Nq0oO1w6RowdvufyF8hLLg",
+        "name": "0",
+        "messageCount": 2,
+        "percentage": 0
+      },
+      {
+        "uid": "u_R_WaVNS7Tj84PhvpX7qDVQ",
+        "name": "奈何桥上调戏鬼",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_n0U0IoL31PPuISeG4GUOIQ",
+        "name": "&莫凡&",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_ba4Dc6mm8OHWVEZcVqvooA",
+        "name": "星缘",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_BBIcN3iQTP5vpTLLW9uJBw",
+        "name": "不想冒泡の某猫",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_id8x7Obf1acxjIMXgejCwg",
+        "name": "宇笙羽枳",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_gm4qWNI9U-5vdcg9sxv2Uw",
+        "name": "文",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_advYIpL1V_iTKaq0EIQbug",
+        "name": "我永远喜欢爱莉希雅",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_Hnb4BD7V92_sVkUxBr3ICA",
+        "name": "犹格·索托斯",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_KuI2Em00okYFsWeR7la86Q",
+        "name": "星",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_KwZT02O93GQMloQbHjlhrA",
+        "name": "道则源天",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_zxW-eaNafjIou6XfRkJlCA",
+        "name": "红豆",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_IZpQAVIkFd3yzTCzAM6UDA",
+        "name": "<%ĀĀ␇Û>\n离li",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u__csL6xzcO-KsOsolY-W4WQ",
+        "name": "ㅤ",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_Mt0JgCG11gz5CnP7cgArmg",
+        "name": "追参的商",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_xu0uXjV-j4PXthbPl--uxg",
+        "name": "暗夜",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_1sxJ_Bv3HMYYlPJqc6FCrw",
+        "name": "Aurora",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_L1JXC8zUkWR_dcNyqeS6jg",
+        "name": "对，就是六花",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_29Qoq-TDH4R0R_V7zP13tw",
+        "name": "星云",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_FVvgi8pQDVrrYHIuMc3Kxw",
+        "name": "栀言Gardenia.",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_hVlJZYqkEsTmew4Pyw8r-Q",
+        "name": "幸运小金猪",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_yOPdxrDRgXwFcQF4OQ1I8Q",
+        "name": "饲养小猫",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_LKxp49SbCDyd0ZFzM5dKwg",
+        "name": "听桥",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_LaBW6OM_0Pa70AORPuHkAQ",
+        "name": "你会做噩梦吗？",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_yDtm5uZOLyA8OW50sCnXHQ",
+        "name": "一道消逝的<虹>",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_fZYXAUwVhLySV9-xQaKPNA",
+        "name": "秋实",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_iYCPJLuEVtxOgls_REyEjw",
+        "name": "超酷的懒羊羊",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_woLo1M5I44K01QJlMNCCNw",
+        "name": "小羊",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_U0Ic0wUO62K3S5nim2_mOA",
+        "name": "天下谁人不识君（苦逼复读生）",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_us9gWvv412yYexclW5A4Iw",
+        "name": "哈哈哈(ಡωಡ)hiahiahia",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_MT5PAwJ_iC06wc4tlCCZZw",
+        "name": "(。・`ω´・)",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_AVGD4aaYFfmk0O7pEjUn2g",
+        "name": "ice",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_xmQBwIGhmWMJVaxCSXb8xA",
+        "name": "云谈",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_c-ykJhqo1aW5_TZkpUyNSQ",
+        "name": "喜",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_yX2pG1IHHoOzHZyyFS9oOA",
+        "name": "与光同尘",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_sj-Hch_mmaar-ZZjo9K13Q",
+        "name": "k-02",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_d4P1UHOzGWpM_WCkqzpEHg",
+        "name": "·",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_etw71cPqk0SxxS9maImX1Q",
+        "name": "杨青旗",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_qDZCVxOi9AlZlZem6srBHQ",
+        "name": "平安是福",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_qfYz_a5__UtikByjXwXZzg",
+        "name": "星空",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_bnzWLeHnowva6-HuFaCNcA",
+        "name": "温柔",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_mNDlyY1r2HYz69X_NGzl8g",
+        "name": "0",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_KkL0JUQjRZNPybyOHN0tiQ",
+        "name": "Chronostasis",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_xFpMfmg0eUN97x0gTiy-Qg",
+        "name": "❤️‍🔥",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_MRZTQfakDJWRpB7SGUo-7g",
+        "name": "学无所成",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_SYLKMYp-wnU_RRftPuBQlQ",
+        "name": "0",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_VRqoX-sTLKJVThnurY_hKA",
+        "name": "0",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_XEkb56LgNGNqEn9NfweEXQ",
+        "name": "建议清空投诉邮箱",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_7_AV13eCbHSY55_lixttUQ",
+        "name": "ღ᭄ꦿ °柒嵗এ⁵²º᭄",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_ffJZcXTjN1H04H3qmv3jKQ",
+        "name": "博涵",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_EgUpQ9fcvasMdnQFZTsWRg",
+        "name": "时间如风",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_wNM-n2XfcUYlY3Lbyvh4Ag",
+        "name": "。。。",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_qWimNn-sP9ZhhB2OzRSwyw",
+        "name": "星辰无瑕",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u__EasOnVq3hqLGcWMMYI8RQ",
+        "name": "綝.",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_oq0tDJvH6MvRpg8wHDY3lQ",
+        "name": "风予飘遥",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_q5WflfgztNycHnhIicfgjg",
+        "name": "0",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_JhnG3azpXCryev414SygGw",
+        "name": "五夕",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_gwQoA4Vy21U1-JVO8veYbw",
+        "name": "carefree",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_yKhlCfzlTYv_g3iuvQw4Lg",
+        "name": "君君的小李",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_8iod3ZaNsrnAtQrvOiNsqw",
+        "name": "沨",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_o57Ux5FRnTNngWTsZmAdig",
+        "name": "神无回终结者",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_4PWVQ5MeiK9sZdtqBHQJVg",
+        "name": "成王败寇",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_CI61nw641706wyhBgA8mlA",
+        "name": "北惘",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_jtaL0k1-JNKsGz1_ekPbxA",
+        "name": "止境",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_UuVC-RoDKEE9-qJYecGxDA",
+        "name": "李嘉图",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_ZBNghHCgB0C-ck7aJfNAYQ",
+        "name": "看到我请催我去学习",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_sepbMjA6RiqhtgI_izZttA",
+        "name": "某个蝴蝶石雕",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_vvbP2UWkgRWMhMHlFssOAQ",
+        "name": "0",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u__bOvr0biJ_CsyXwNmNc4Lg",
+        "name": "米需报需",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_8_bCijyyWKuCj4_aXfSC8Q",
+        "name": "莫琴",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_ZxMegTaOVQvni_IjNpB8eA",
+        "name": "Mr.star-星",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_Vd3y1YyWWZB7Ei4FftzoBg",
+        "name": "佐名123456",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_gBt99EA1WKaOwsjKfKF2Mw",
+        "name": "明月挽清风",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_fV93neKnLwiGVdzKhofjxQ",
+        "name": "末冕",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_VaXvzXcR0hzZ5ZoAmNEFHg",
+        "name": "槐序初九",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_8-ou9svZQ6jSsVJxo-CZXA",
+        "name": "豬",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_FS60LwPrK3MFLTojMMV3jg",
+        "name": "爱吃蒜蓉生蚝",
+        "messageCount": 1,
+        "percentage": 0
+      }
+    ]
+  },
+  "chunked": {
+    "format": "jsonl",
+    "chunksDir": "chunks",
+    "chunkFileExt": ".jsonl",
+    "maxMessagesPerChunk": 50000,
+    "maxBytesPerChunk": 52428800,
+    "chunks": [
+      {
+        "index": 1,
+        "fileName": "chunk_0001.jsonl",
+        "relativePath": "chunks/chunk_0001.jsonl",
+        "start": "2024-04-23T12:56:57.000Z",
+        "end": "2025-07-18T09:36:46.000Z",
+        "count": 50000,
+        "bytes": 48163116
+      },
+      {
+        "index": 2,
+        "fileName": "chunk_0002.jsonl",
+        "relativePath": "chunks/chunk_0002.jsonl",
+        "start": "2025-07-18T09:36:46.000Z",
+        "end": "2025-10-01T05:20:59.000Z",
+        "count": 50000,
+        "bytes": 41812794
+      },
+      {
+        "index": 3,
+        "fileName": "chunk_0003.jsonl",
+        "relativePath": "chunks/chunk_0003.jsonl",
+        "start": "2025-10-01T05:20:59.000Z",
+        "end": "2026-03-06T14:44:23.000Z",
+        "count": 44700,
+        "bytes": 38125710
+      }
+    ]
+  }
+}
